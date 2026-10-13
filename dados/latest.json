@@ -1,6 +1,6 @@
 {
   "fonte": "https://github.com/trending?since=daily",
-  "coletado_em_brt": "2026-10-13T00:44-03:00",
+  "coletado_em_brt": "2026-10-13T12:51-03:00",
   "data": "2026-10-13",
   "total": 9,
   "repos": [
@@ -10,9 +10,9 @@
       "link": "https://github.com/morluto/rea",
       "descricao": "Reverse engineer anything with agents, from app behavior down to native binaries.",
       "linguagem": "TypeScript",
-      "estrelas_total": 166046,
-      "forks": 39298,
-      "estrelas_hoje": 45327
+      "estrelas_total": 195620,
+      "forks": 47763,
+      "estrelas_hoje": 54706
     },
     {
       "posicao": 2,
@@ -20,49 +20,49 @@
       "link": "https://github.com/bilawalsidhu/gods-eye-view",
       "descricao": "A spy satellite simulator in your browser, except the data is real. Live open source spatial intelligence on a photorealistic 3D globe.",
       "linguagem": "JavaScript",
-      "estrelas_total": 53921,
-      "forks": 10632,
-      "estrelas_hoje": 1895
+      "estrelas_total": 54835,
+      "forks": 10761,
+      "estrelas_hoje": 1961
     },
     {
       "posicao": 3,
+      "repo": "debpalash/VoiceStudio",
+      "link": "https://github.com/debpalash/VoiceStudio",
+      "descricao": "VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.",
+      "linguagem": "Python",
+      "estrelas_total": 62093,
+      "forks": 6935,
+      "estrelas_hoje": 1691
+    },
+    {
+      "posicao": 4,
       "repo": "mksglu/context-mode",
       "link": "https://github.com/mksglu/context-mode",
       "descricao": "Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and enforces routing across 17 platforms via MCP + hooks.",
       "linguagem": "TypeScript",
-      "estrelas_total": 27421,
-      "forks": 1952,
-      "estrelas_hoje": 246
-    },
-    {
-      "posicao": 4,
-      "repo": "storytold/artcraft",
-      "link": "https://github.com/storytold/artcraft",
-      "descricao": "ArtCraft is an intentional crafting engine for artists, designers, and filmmakers",
-      "linguagem": "Rust",
-      "estrelas_total": 22562,
-      "forks": 3626,
-      "estrelas_hoje": 4095
+      "estrelas_total": 27929,
+      "forks": 1977,
+      "estrelas_hoje": 978
     },
     {
       "posicao": 5,
-      "repo": "open-webui/open-webui",
-      "link": "https://github.com/open-webui/open-webui",
-      "descricao": "User-friendly AI Interface (Supports Ollama, OpenAI API, ...)",
-      "linguagem": "Python",
-      "estrelas_total": 155170,
-      "forks": 22653,
-      "estrelas_hoje": 157
-    },
-    {
-      "posicao": 6,
       "repo": "cathrynlavery/diagram-design",
       "link": "https://github.com/cathrynlavery/diagram-design",
       "descricao": "Editorial diagram design for Claude Code, Codex, GitHub Copilot, Cursor, Factory Droid, and Pi. 44 diagram types. Self-contained HTML + SVG. No shadows. No Mermaid slop.",
       "linguagem": "HTML",
-      "estrelas_total": 52869,
-      "forks": 3341,
-      "estrelas_hoje": 2081
+      "estrelas_total": 53673,
+      "forks": 3401,
+      "estrelas_hoje": 1813
+    },
+    {
+      "posicao": 6,
+      "repo": "vercel-labs/skills",
+      "link": "https://github.com/vercel-labs/skills",
+      "descricao": "The open agent skills tool - npx skills",
+      "linguagem": "TypeScript",
+      "estrelas_total": 34263,
+      "forks": 2938,
+      "estrelas_hoje": 187
     },
     {
       "posicao": 7,
@@ -70,29 +70,29 @@
       "link": "https://github.com/lyogavin/airllm",
       "descricao": "AirLLM 2.8T LLM inference with single 4GB GPU",
       "linguagem": "Jupyter Notebook",
-      "estrelas_total": 37646,
-      "forks": 3879,
-      "estrelas_hoje": 879
+      "estrelas_total": 38103,
+      "forks": 3900,
+      "estrelas_hoje": 1004
     },
     {
       "posicao": 8,
-      "repo": "microsoft/BitNet",
-      "link": "https://github.com/microsoft/BitNet",
-      "descricao": "Official inference framework for 1-bit LLMs",
-      "linguagem": "C++",
-      "estrelas_total": 40960,
-      "forks": 3815,
-      "estrelas_hoje": 97
+      "repo": "storytold/artcraft",
+      "link": "https://github.com/storytold/artcraft",
+      "descricao": "ArtCraft is an intentional crafting engine for artists, designers, and filmmakers",
+      "linguagem": "Rust",
+      "estrelas_total": 24628,
+      "forks": 3886,
+      "estrelas_hoje": 4078
     },
     {
       "posicao": 9,
-      "repo": "Alishahryar1/free-claude-code",
-      "link": "https://github.com/Alishahryar1/free-claude-code",
-      "descricao": "Use Claude Code, Codex, VSCode, Pi, and OpenCode (and 6 other harnesses) for free (1.3B+ free tokens) from your terminal, app, IDE, or phone, and now from the browser with native browser sessions (multi-harness + multi-model) like OpenClaw (voice supported + ToS friendly)",
-      "linguagem": "Python",
-      "estrelas_total": 59314,
-      "forks": 9337,
-      "estrelas_hoje": 626
+      "repo": "xtool-org/xtool",
+      "link": "https://github.com/xtool-org/xtool",
+      "descricao": "Cross-platform Xcode replacement. Build and deploy iOS apps with SwiftPM on Linux, Windows, macOS.",
+      "linguagem": "Swift",
+      "estrelas_total": 8844,
+      "forks": 367,
+      "estrelas_hoje": 936
     }
   ]
 }
