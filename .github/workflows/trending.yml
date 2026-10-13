@@ -1,0 +1,27 @@
+name: Pegar trending do GitHub
+
+on:
+  schedule:
+    - cron: "0 9 * * *"   # 6h da manhã no horário de Brasília
+  workflow_dispatch:       # botão para rodar na mão
+
+permissions:
+  contents: write
+
+jobs:
+  coletar:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - run: pip install requests beautifulsoup4
+      - run: python scripts/pegar_trending.py
+      - name: Salvar no repositório
+        run: |
+          git config user.name "trending-bot"
+          git config user.email "trending-bot@users.noreply.github.com"
+          git add dados
+          git commit -m "Trending de $(TZ=America/Sao_Paulo date +%F)" || echo "Nada novo"
+          git push
