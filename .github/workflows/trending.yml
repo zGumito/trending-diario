@@ -2,7 +2,7 @@ name: Pegar trending do GitHub
 
 on:
   schedule:
-    - cron: "0 9 * * *"   # 6h da manhã no horário de Brasília
+    - cron: "7 8 * * *"   # 5h07 no horário de Brasília (folga para atrasos do GitHub)
   workflow_dispatch:       # botão para rodar na mão
 
 permissions:
