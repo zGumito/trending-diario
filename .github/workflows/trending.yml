@@ -1,27 +1,51 @@
 name: Pegar trending do GitHub
 
+# O GitHub atrasa (às vezes horas) ou pula agendamentos em contas grátis.
+# Por isso há várias tentativas na madrugada: a primeira que rodar coleta,
+# as seguintes veem que o arquivo do dia já existe e não fazem nada.
 on:
   schedule:
-    - cron: "7 8 * * *"   # 5h07 no horário de Brasília (folga para atrasos do GitHub)
-  workflow_dispatch:       # botão para rodar na mão
+    - cron: "23 3 * * *"   # 00h23 Brasília
+    - cron: "41 4 * * *"   # 01h41
+    - cron: "13 6 * * *"   # 03h13
+    - cron: "37 7 * * *"   # 04h37
+    - cron: "52 8 * * *"   # 05h52
+  workflow_dispatch:        # botão para rodar na mão (força nova coleta)
 
 permissions:
   contents: write
+
+concurrency:
+  group: trending
+  cancel-in-progress: false
 
 jobs:
   coletar:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
-      - uses: actions/setup-python@v5
+      - name: Já coletou hoje?
+        id: check
+        run: |
+          HOJE=$(TZ=America/Sao_Paulo date +%F)
+          if [ "${{ github.event_name }}" = "schedule" ] && [ -f "dados/$HOJE.json" ]; then
+            echo "Já existe dados/$HOJE.json — nada a fazer."
+            echo "pular=1" >> "$GITHUB_OUTPUT"
+          fi
+      - if: steps.check.outputs.pular != '1'
+        uses: actions/setup-python@v5
         with:
           python-version: "3.12"
-      - run: pip install requests beautifulsoup4
-      - run: python scripts/pegar_trending.py
+      - if: steps.check.outputs.pular != '1'
+        run: pip install requests beautifulsoup4
+      - if: steps.check.outputs.pular != '1'
+        run: python scripts/pegar_trending.py
       - name: Salvar no repositório
+        if: steps.check.outputs.pular != '1'
         run: |
           git config user.name "trending-bot"
           git config user.email "trending-bot@users.noreply.github.com"
           git add dados
           git commit -m "Trending de $(TZ=America/Sao_Paulo date +%F)" || echo "Nada novo"
+          git pull --rebase origin main
           git push
