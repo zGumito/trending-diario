@@ -1,7 +1,7 @@
 {
   "fonte": "https://github.com/trending?since=daily",
-  "coletado_em_brt": "2026-10-14T08:50-03:00",
-  "data": "2026-10-14",
+  "coletado_em_brt": "2026-10-15T05:27-03:00",
+  "data": "2026-10-15",
   "total": 12,
   "repos": [
     {
@@ -10,9 +10,9 @@
       "link": "https://github.com/morluto/rea",
       "descricao": "Reverse engineer anything with agents, from app behavior down to native binaries.",
       "linguagem": "TypeScript",
-      "estrelas_total": 226192,
-      "forks": 56133,
-      "estrelas_hoje": 41187
+      "estrelas_total": 253630,
+      "forks": 63725,
+      "estrelas_hoje": 41034
     },
     {
       "posicao": 2,
@@ -20,9 +20,9 @@
       "link": "https://github.com/debpalash/VoiceStudio",
       "descricao": "VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.",
       "linguagem": "Python",
-      "estrelas_total": 64862,
-      "forks": 7189,
-      "estrelas_hoje": 3547
+      "estrelas_total": 67438,
+      "forks": 7399,
+      "estrelas_hoje": 3538
     },
     {
       "posicao": 3,
@@ -30,9 +30,9 @@
       "link": "https://github.com/mksglu/context-mode",
       "descricao": "Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and enforces routing across 17 platforms via MCP + hooks.",
       "linguagem": "TypeScript",
-      "estrelas_total": 28692,
-      "forks": 2017,
-      "estrelas_hoje": 946
+      "estrelas_total": 29449,
+      "forks": 2060,
+      "estrelas_hoje": 947
     },
     {
       "posicao": 4,
@@ -40,9 +40,9 @@
       "link": "https://github.com/nvm-sh/nvm",
       "descricao": "Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions.",
       "linguagem": "Shell",
-      "estrelas_total": 95363,
-      "forks": 10506,
-      "estrelas_hoje": 45
+      "estrelas_total": 95519,
+      "forks": 10527,
+      "estrelas_hoje": 52
     },
     {
       "posicao": 5,
@@ -50,9 +50,9 @@
       "link": "https://github.com/K-Dense-AI/scientific-agent-skills",
       "descricao": "Turn any AI agent into an AI Scientist. The #1 Agent Skills library for science, used by 250,000+ scientists worldwide. 177 ready-to-use validated skills plus 100+ scientific databases covering biology, chemistry, medicine, and drug discovery. Compatible with Cursor, Claude Code, Codex, Pi, Antigravity, and the open Agent Skills standard.",
       "linguagem": "Python",
-      "estrelas_total": 48855,
-      "forks": 4389,
-      "estrelas_hoje": 146
+      "estrelas_total": 49755,
+      "forks": 4443,
+      "estrelas_hoje": 163
     },
     {
       "posicao": 6,
@@ -60,9 +60,9 @@
       "link": "https://github.com/HKUDS/CLI-Anything",
       "descricao": "\"CLI-Anything: Making ALL Software Agent-Native\" -- CLI-Hub: https://clianything.cc/",
       "linguagem": "Python",
-      "estrelas_total": 52169,
-      "forks": 4756,
-      "estrelas_hoje": 94
+      "estrelas_total": 52805,
+      "forks": 4791,
+      "estrelas_hoje": 103
     },
     {
       "posicao": 7,
@@ -70,9 +70,9 @@
       "link": "https://github.com/ifixai-ai/iFixAi",
       "descricao": "Independent Auditing of AI Agents. Run by human or the agent itself, to answer the most crucial question in the AI Agent Economy. Is the agent doing what is supposed to do? With iFixAi you can have this answer in less than 120 seconds.",
       "linguagem": "Python",
-      "estrelas_total": 26584,
-      "forks": 1473,
-      "estrelas_hoje": 2143
+      "estrelas_total": 27937,
+      "forks": 1521,
+      "estrelas_hoje": 2109
     },
     {
       "posicao": 8,
@@ -80,9 +80,9 @@
       "link": "https://github.com/vxcontrol/pentagi",
       "descricao": "Fully autonomous AI Agents system capable of performing complex penetration testing tasks",
       "linguagem": "Go",
-      "estrelas_total": 28691,
-      "forks": 4319,
-      "estrelas_hoje": 1819
+      "estrelas_total": 30039,
+      "forks": 4497,
+      "estrelas_hoje": 1025
     },
     {
       "posicao": 9,
@@ -90,9 +90,9 @@
       "link": "https://github.com/rust-lang/rust",
       "descricao": "Empowering everyone to build reliable and efficient software.",
       "linguagem": "Rust",
-      "estrelas_total": 119981,
-      "forks": 18641,
-      "estrelas_hoje": 205
+      "estrelas_total": 120205,
+      "forks": 18708,
+      "estrelas_hoje": 207
     },
     {
       "posicao": 10,
@@ -100,9 +100,9 @@
       "link": "https://github.com/xtool-org/xtool",
       "descricao": "Cross-platform Xcode replacement. Build and deploy iOS apps with SwiftPM on Linux, Windows, macOS.",
       "linguagem": "Swift",
-      "estrelas_total": 10049,
-      "forks": 430,
-      "estrelas_hoje": 1510
+      "estrelas_total": 11258,
+      "forks": 516,
+      "estrelas_hoje": 1502
     },
     {
       "posicao": 11,
@@ -110,9 +110,9 @@
       "link": "https://github.com/ntdevlabs/tiny11builder",
       "descricao": "WinUI app for building smaller, customized Windows 11 images.",
       "linguagem": "C#",
-      "estrelas_total": 20022,
-      "forks": 1544,
-      "estrelas_hoje": 132
+      "estrelas_total": 20394,
+      "forks": 1565,
+      "estrelas_hoje": 139
     },
     {
       "posicao": 12,
@@ -120,9 +120,9 @@
       "link": "https://github.com/NationalSecurityAgency/ghidra",
       "descricao": "Ghidra is a software reverse engineering (SRE) framework",
       "linguagem": "Java",
-      "estrelas_total": 86790,
-      "forks": 9691,
-      "estrelas_hoje": 1550
+      "estrelas_total": 87946,
+      "forks": 9813,
+      "estrelas_hoje": 1008
     }
   ]
 }
