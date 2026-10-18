@@ -1,0 +1,138 @@
+{
+  "fonte": "https://github.com/trending?since=daily",
+  "coletado_em_brt": "2026-10-18T05:10-03:00",
+  "data": "2026-10-18",
+  "total": 13,
+  "repos": [
+    {
+      "posicao": 1,
+      "repo": "anthropics/claude-plugins-official",
+      "link": "https://github.com/anthropics/claude-plugins-official",
+      "descricao": "Official, Anthropic-managed directory of high quality Claude Code Plugins.",
+      "linguagem": "Python",
+      "estrelas_total": 42104,
+      "forks": 4492,
+      "estrelas_hoje": 1397
+    },
+    {
+      "posicao": 2,
+      "repo": "MadsLorentzen/ai-job-search",
+      "link": "https://github.com/MadsLorentzen/ai-job-search",
+      "descricao": "The job search that runs on your machine. AI job application framework built on Claude Code: evaluate postings, tailor CVs, write cover letters, prep interviews. Fork it and own it.",
+      "linguagem": "Python",
+      "estrelas_total": 51053,
+      "forks": 17011,
+      "estrelas_hoje": 1365
+    },
+    {
+      "posicao": 3,
+      "repo": "affaan-m/ECC",
+      "link": "https://github.com/affaan-m/ECC",
+      "descricao": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+      "linguagem": "JavaScript",
+      "estrelas_total": 282785,
+      "forks": 42010,
+      "estrelas_hoje": 1145
+    },
+    {
+      "posicao": 4,
+      "repo": "HKUDS/CLI-Anything",
+      "link": "https://github.com/HKUDS/CLI-Anything",
+      "descricao": "\"CLI-Anything: Making ALL Software Agent-Native\" -- CLI-Hub: https://clianything.cc/",
+      "linguagem": "Python",
+      "estrelas_total": 54238,
+      "forks": 4915,
+      "estrelas_hoje": 574
+    },
+    {
+      "posicao": 5,
+      "repo": "K-Dense-AI/scientific-agent-skills",
+      "link": "https://github.com/K-Dense-AI/scientific-agent-skills",
+      "descricao": "Turn any AI agent into an AI Scientist. The #1 Agent Skills library for science, used by 250,000+ scientists worldwide. 177 ready-to-use validated skills plus 100+ scientific databases covering biology, chemistry, medicine, and drug discovery. Compatible with Cursor, Claude Code, Codex, Pi, Antigravity, and the open Agent Skills standard.",
+      "linguagem": "Python",
+      "estrelas_total": 52450,
+      "forks": 4641,
+      "estrelas_hoje": 878
+    },
+    {
+      "posicao": 6,
+      "repo": "akitaonrails/ai-memory",
+      "link": "https://github.com/akitaonrails/ai-memory",
+      "descricao": "Solution for long term memory for agent coding CLIs and to facilitate handoff between different agent vendors",
+      "linguagem": "Rust",
+      "estrelas_total": 10100,
+      "forks": 728,
+      "estrelas_hoje": 178
+    },
+    {
+      "posicao": 7,
+      "repo": "android/skills",
+      "link": "https://github.com/android/skills",
+      "descricao": "",
+      "linguagem": "Kotlin",
+      "estrelas_total": 8539,
+      "forks": 558,
+      "estrelas_hoje": 355
+    },
+    {
+      "posicao": 8,
+      "repo": "stablyai/orca",
+      "link": "https://github.com/stablyai/orca",
+      "descricao": "Orca is the place for working with a fleet of agents (e.g. Grok Bot, Claude Code). Run any coding agent with your own subscription. Available on desktop, mobile and remote runtime.",
+      "linguagem": "TypeScript",
+      "estrelas_total": 95758,
+      "forks": 6128,
+      "estrelas_hoje": 830
+    },
+    {
+      "posicao": 9,
+      "repo": "anthropics/claude-code",
+      "link": "https://github.com/anthropics/claude-code",
+      "descricao": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.",
+      "linguagem": "TypeScript",
+      "estrelas_total": 152144,
+      "forks": 26943,
+      "estrelas_hoje": 179
+    },
+    {
+      "posicao": 10,
+      "repo": "debpalash/VoiceStudio",
+      "link": "https://github.com/debpalash/VoiceStudio",
+      "descricao": "VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.",
+      "linguagem": "Python",
+      "estrelas_total": 73907,
+      "forks": 8090,
+      "estrelas_hoje": 2125
+    },
+    {
+      "posicao": 11,
+      "repo": "anomalyco/opencode",
+      "link": "https://github.com/anomalyco/opencode",
+      "descricao": "The open source coding agent.",
+      "linguagem": "TypeScript",
+      "estrelas_total": 215744,
+      "forks": 28901,
+      "estrelas_hoje": 438
+    },
+    {
+      "posicao": 12,
+      "repo": "ruvnet/ruflo",
+      "link": "https://github.com/ruvnet/ruflo",
+      "descricao": "🌊 The original agent harness. Deploy intelligent multi-player swarms, coordinate autonomous workflows, and build conversational AI systems. Features adaptive memory, self-learning intelligence, federation, vector RAG integration, and native Claude Code / Codex / Hermes and many more Integrated",
+      "linguagem": "TypeScript",
+      "estrelas_total": 76217,
+      "forks": 9012,
+      "estrelas_hoje": 420
+    },
+    {
+      "posicao": 13,
+      "repo": "xerj-org/xerj",
+      "link": "https://github.com/xerj-org/xerj",
+      "descricao": "XERJ is the new way for AI to search data. Its autoindex capability activates agents to know your data without the token waste of grep (1974 tool). One command indexes code, docs, logs and PDFs for search, RAG, security audits and agent memory, using 40x fewer tokens than grep. It’s durable and can replace ElasticSearch saving you x10 infra costs.",
+      "linguagem": "Rust",
+      "estrelas_total": 8042,
+      "forks": 426,
+      "estrelas_hoje": 1160
+    }
+  ]
+}
