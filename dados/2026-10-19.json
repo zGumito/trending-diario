@@ -1,0 +1,148 @@
+{
+  "fonte": "https://github.com/trending?since=daily",
+  "coletado_em_brt": "2026-10-19T06:06-03:00",
+  "data": "2026-10-19",
+  "total": 14,
+  "repos": [
+    {
+      "posicao": 1,
+      "repo": "MadsLorentzen/ai-job-search",
+      "link": "https://github.com/MadsLorentzen/ai-job-search",
+      "descricao": "The job search that runs on your machine. AI job application framework built on Claude Code: evaluate postings, tailor CVs, write cover letters, prep interviews. Fork it and own it.",
+      "linguagem": "Python",
+      "estrelas_total": 54742,
+      "forks": 17665,
+      "estrelas_hoje": 2232
+    },
+    {
+      "posicao": 2,
+      "repo": "anthropics/claude-plugins-official",
+      "link": "https://github.com/anthropics/claude-plugins-official",
+      "descricao": "Official, Anthropic-managed directory of high quality Claude Code Plugins.",
+      "linguagem": "Python",
+      "estrelas_total": 42976,
+      "forks": 4549,
+      "estrelas_hoje": 1175
+    },
+    {
+      "posicao": 3,
+      "repo": "anomalyco/opencode",
+      "link": "https://github.com/anomalyco/opencode",
+      "descricao": "The open source coding agent.",
+      "linguagem": "TypeScript",
+      "estrelas_total": 217036,
+      "forks": 29035,
+      "estrelas_hoje": 1414
+    },
+    {
+      "posicao": 4,
+      "repo": "cursor/plugins",
+      "link": "https://github.com/cursor/plugins",
+      "descricao": "Cursor plugin specification and official plugins",
+      "linguagem": "TypeScript",
+      "estrelas_total": 12900,
+      "forks": 1267,
+      "estrelas_hoje": 350
+    },
+    {
+      "posicao": 5,
+      "repo": "ruvnet/ruflo",
+      "link": "https://github.com/ruvnet/ruflo",
+      "descricao": "🌊 The original agent harness. Deploy intelligent multi-player swarms, coordinate autonomous workflows, and build conversational AI systems. Features adaptive memory, self-learning intelligence, federation, vector RAG integration, and native Claude Code / Codex / Hermes and many more Integrated",
+      "linguagem": "TypeScript",
+      "estrelas_total": 76776,
+      "forks": 9069,
+      "estrelas_hoje": 513
+    },
+    {
+      "posicao": 6,
+      "repo": "akitaonrails/ai-memory",
+      "link": "https://github.com/akitaonrails/ai-memory",
+      "descricao": "Solution for long term memory for agent coding CLIs and to facilitate handoff between different agent vendors",
+      "linguagem": "Rust",
+      "estrelas_total": 10776,
+      "forks": 763,
+      "estrelas_hoje": 512
+    },
+    {
+      "posicao": 7,
+      "repo": "YuJunZhiXue/dsh-purge",
+      "link": "https://github.com/YuJunZhiXue/dsh-purge",
+      "descricao": "DeepSeek Harness 破甲：让所有模型都能破甲，不同模型可换不同提示词；默认提示词面向国模「小码酱」。Jailbreak for every model — swap prompts per model. 求 Star 收藏 ⭐ 如要二开，请查看署名要求部分",
+      "linguagem": "JavaScript",
+      "estrelas_total": 7392,
+      "forks": 1117,
+      "estrelas_hoje": 423
+    },
+    {
+      "posicao": 8,
+      "repo": "stablyai/orca",
+      "link": "https://github.com/stablyai/orca",
+      "descricao": "Orca is the place for working with a fleet of agents (e.g. Grok Bot, Claude Code). Run any coding agent with your own subscription. Available on desktop, mobile and remote runtime.",
+      "linguagem": "TypeScript",
+      "estrelas_total": 97312,
+      "forks": 6204,
+      "estrelas_hoje": 1146
+    },
+    {
+      "posicao": 9,
+      "repo": "HKUDS/CLI-Anything",
+      "link": "https://github.com/HKUDS/CLI-Anything",
+      "descricao": "\"CLI-Anything: Making ALL Software Agent-Native\" -- CLI-Hub: https://clianything.cc/",
+      "linguagem": "Python",
+      "estrelas_total": 54868,
+      "forks": 4962,
+      "estrelas_hoje": 589
+    },
+    {
+      "posicao": 10,
+      "repo": "debpalash/VoiceStudio",
+      "link": "https://github.com/debpalash/VoiceStudio",
+      "descricao": "VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.",
+      "linguagem": "Python",
+      "estrelas_total": 76379,
+      "forks": 8349,
+      "estrelas_hoje": 2082
+    },
+    {
+      "posicao": 11,
+      "repo": "android/skills",
+      "link": "https://github.com/android/skills",
+      "descricao": "",
+      "linguagem": "Kotlin",
+      "estrelas_total": 8939,
+      "forks": 572,
+      "estrelas_hoje": 375
+    },
+    {
+      "posicao": 12,
+      "repo": "mlabonne/llm-course",
+      "link": "https://github.com/mlabonne/llm-course",
+      "descricao": "Course to get into Large Language Models (LLMs) with roadmaps and Colab notebooks.",
+      "linguagem": null,
+      "estrelas_total": 84284,
+      "forks": 9801,
+      "estrelas_hoje": 81
+    },
+    {
+      "posicao": 13,
+      "repo": "Kruk2/jasna",
+      "link": "https://github.com/Kruk2/jasna",
+      "descricao": "Video restoration tool",
+      "linguagem": "Python",
+      "estrelas_total": 2649,
+      "forks": 201,
+      "estrelas_hoje": 115
+    },
+    {
+      "posicao": 14,
+      "repo": "Comfy-Org/ComfyUI",
+      "link": "https://github.com/Comfy-Org/ComfyUI",
+      "descricao": "The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface. The fastest local inference engine in the world.",
+      "linguagem": "Python",
+      "estrelas_total": 139024,
+      "forks": 16521,
+      "estrelas_hoje": 154
+    }
+  ]
+}
