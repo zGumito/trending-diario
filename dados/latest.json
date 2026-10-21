@@ -1,8 +1,8 @@
 {
   "fonte": "https://github.com/trending?since=daily",
-  "coletado_em_brt": "2026-10-20T05:43-03:00",
-  "data": "2026-10-20",
-  "total": 12,
+  "coletado_em_brt": "2026-10-21T05:43-03:00",
+  "data": "2026-10-21",
+  "total": 14,
   "repos": [
     {
       "posicao": 1,
@@ -10,119 +10,139 @@
       "link": "https://github.com/MadsLorentzen/ai-job-search",
       "descricao": "The job search that runs on your machine. AI job application framework built on Claude Code: evaluate postings, tailor CVs, write cover letters, prep interviews. Fork it and own it.",
       "linguagem": "Python",
-      "estrelas_total": 58569,
-      "forks": 18452,
-      "estrelas_hoje": 3856
+      "estrelas_total": 61694,
+      "forks": 19111,
+      "estrelas_hoje": 3861
     },
     {
       "posicao": 2,
-      "repo": "anomalyco/opencode",
-      "link": "https://github.com/anomalyco/opencode",
-      "descricao": "The open source coding agent.",
-      "linguagem": "TypeScript",
-      "estrelas_total": 218222,
-      "forks": 29149,
-      "estrelas_hoje": 1311
+      "repo": "cloudflare/security-audit-skill",
+      "link": "https://github.com/cloudflare/security-audit-skill",
+      "descricao": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
+      "linguagem": "JavaScript",
+      "estrelas_total": 34851,
+      "forks": 2194,
+      "estrelas_hoje": 1712
     },
     {
       "posicao": 3,
-      "repo": "akitaonrails/ai-memory",
-      "link": "https://github.com/akitaonrails/ai-memory",
-      "descricao": "Solution for long term memory for agent coding CLIs and to facilitate handoff between different agent vendors",
-      "linguagem": "Rust",
-      "estrelas_total": 11636,
-      "forks": 824,
-      "estrelas_hoje": 666
-    },
-    {
-      "posicao": 4,
-      "repo": "Comfy-Org/ComfyUI",
-      "link": "https://github.com/Comfy-Org/ComfyUI",
-      "descricao": "The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface. The fastest local inference engine in the world.",
-      "linguagem": "Python",
-      "estrelas_total": 140169,
-      "forks": 16610,
-      "estrelas_hoje": 1011
-    },
-    {
-      "posicao": 5,
-      "repo": "ruvnet/ruflo",
-      "link": "https://github.com/ruvnet/ruflo",
-      "descricao": "🌊 The original agent harness. Deploy intelligent multi-player swarms, coordinate autonomous workflows, and build conversational AI systems. Features adaptive memory, self-learning intelligence, federation, vector RAG integration, and native Claude Code / Codex / Hermes and many more Integrated",
-      "linguagem": "TypeScript",
-      "estrelas_total": 77432,
-      "forks": 9118,
-      "estrelas_hoje": 564
-    },
-    {
-      "posicao": 6,
       "repo": "stablyai/orca",
       "link": "https://github.com/stablyai/orca",
       "descricao": "Orca is the place for working with a fleet of agents (e.g. Grok Bot, Claude Code). Run any coding agent with your own subscription. Available on desktop, mobile and remote runtime.",
       "linguagem": "TypeScript",
-      "estrelas_total": 98806,
-      "forks": 6297,
-      "estrelas_hoje": 1590
+      "estrelas_total": 100301,
+      "forks": 6354,
+      "estrelas_hoje": 1565
+    },
+    {
+      "posicao": 4,
+      "repo": "DietrichGebert/ponytail",
+      "link": "https://github.com/DietrichGebert/ponytail",
+      "descricao": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
+      "linguagem": "JavaScript",
+      "estrelas_total": 170431,
+      "forks": 9274,
+      "estrelas_hoje": 1208
+    },
+    {
+      "posicao": 5,
+      "repo": "Comfy-Org/ComfyUI",
+      "link": "https://github.com/Comfy-Org/ComfyUI",
+      "descricao": "The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface. The fastest local inference engine in the world.",
+      "linguagem": "Python",
+      "estrelas_total": 141093,
+      "forks": 16689,
+      "estrelas_hoje": 1206
+    },
+    {
+      "posicao": 6,
+      "repo": "ruvnet/ruflo",
+      "link": "https://github.com/ruvnet/ruflo",
+      "descricao": "🌊 The original agent harness. Deploy intelligent multi-player swarms, coordinate autonomous workflows, and build conversational AI systems. Features adaptive memory, self-learning intelligence, federation, vector RAG integration, and native Claude Code / Codex / Hermes and many more Integrated",
+      "linguagem": "TypeScript",
+      "estrelas_total": 78015,
+      "forks": 9176,
+      "estrelas_hoje": 684
     },
     {
       "posicao": 7,
+      "repo": "Graphify-Labs/graphify",
+      "link": "https://github.com/Graphify-Labs/graphify",
+      "descricao": "Turn any codebase, with its docs, SQL schemas, configs, and PDFs, into a queryable knowledge graph. A /graphify skill for Claude Code, Cursor, Codex, and Gemini CLI: local deterministic AST parsing, every edge explained, no vector store.",
+      "linguagem": "Python",
+      "estrelas_total": 130723,
+      "forks": 12568,
+      "estrelas_hoje": 802
+    },
+    {
+      "posicao": 8,
+      "repo": "anomalyco/opencode",
+      "link": "https://github.com/anomalyco/opencode",
+      "descricao": "The open source coding agent.",
+      "linguagem": "TypeScript",
+      "estrelas_total": 219336,
+      "forks": 29294,
+      "estrelas_hoje": 1240
+    },
+    {
+      "posicao": 9,
+      "repo": "msitarzewski/agency-agents",
+      "link": "https://github.com/msitarzewski/agency-agents",
+      "descricao": "A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.",
+      "linguagem": "Shell",
+      "estrelas_total": 162650,
+      "forks": 26248,
+      "estrelas_hoje": 562
+    },
+    {
+      "posicao": 10,
       "repo": "headroomlabs-ai/headroom",
       "link": "https://github.com/headroomlabs-ai/headroom",
       "descricao": "Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 20% fewer tokens for coding agents, 60-95% fewer tokens for JSON, same answers. Library, proxy, MCP server.",
       "linguagem": "Python",
-      "estrelas_total": 76440,
-      "forks": 5934,
-      "estrelas_hoje": 310
-    },
-    {
-      "posicao": 8,
-      "repo": "withmarbleapp/os-taxonomy",
-      "link": "https://github.com/withmarbleapp/os-taxonomy",
-      "descricao": "",
-      "linguagem": "JavaScript",
-      "estrelas_total": 6372,
-      "forks": 1031,
-      "estrelas_hoje": 284
-    },
-    {
-      "posicao": 9,
-      "repo": "Kruk2/jasna",
-      "link": "https://github.com/Kruk2/jasna",
-      "descricao": "Video restoration tool",
-      "linguagem": "Python",
-      "estrelas_total": 3141,
-      "forks": 229,
-      "estrelas_hoje": 498
-    },
-    {
-      "posicao": 10,
-      "repo": "HKUDS/CLI-Anything",
-      "link": "https://github.com/HKUDS/CLI-Anything",
-      "descricao": "\"CLI-Anything: Making ALL Software Agent-Native\" -- CLI-Hub: https://clianything.cc/",
-      "linguagem": "Python",
-      "estrelas_total": 55470,
-      "forks": 5000,
-      "estrelas_hoje": 606
+      "estrelas_total": 76917,
+      "forks": 5969,
+      "estrelas_hoje": 549
     },
     {
       "posicao": 11,
-      "repo": "anthropics/claude-code",
-      "link": "https://github.com/anthropics/claude-code",
-      "descricao": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.",
-      "linguagem": "TypeScript",
-      "estrelas_total": 152834,
-      "forks": 27154,
-      "estrelas_hoje": 167
+      "repo": "anthropics/knowledge-work-plugins",
+      "link": "https://github.com/anthropics/knowledge-work-plugins",
+      "descricao": "Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork",
+      "linguagem": "Python",
+      "estrelas_total": 30935,
+      "forks": 3473,
+      "estrelas_hoje": 267
     },
     {
       "posicao": 12,
+      "repo": "wshobson/agents",
+      "link": "https://github.com/wshobson/agents",
+      "descricao": "Multi-harness agentic plugin marketplace for Claude Code, Codex, Cursor, OpenCode, GitHub Copilot, Google Antigravity, and Pi",
+      "linguagem": "Python",
+      "estrelas_total": 41372,
+      "forks": 4400,
+      "estrelas_hoje": 93
+    },
+    {
+      "posicao": 13,
       "repo": "shiyu-coder/Kronos",
       "link": "https://github.com/shiyu-coder/Kronos",
       "descricao": "Kronos: A Foundation Model for the Language of Financial Markets",
       "linguagem": "Python",
-      "estrelas_total": 41936,
-      "forks": 6953,
-      "estrelas_hoje": 363
+      "estrelas_total": 42513,
+      "forks": 7032,
+      "estrelas_hoje": 733
+    },
+    {
+      "posicao": 14,
+      "repo": "vllm-project/vllm",
+      "link": "https://github.com/vllm-project/vllm",
+      "descricao": "A high-throughput and memory-efficient inference and serving engine for LLMs",
+      "linguagem": "Python",
+      "estrelas_total": 94605,
+      "forks": 23696,
+      "estrelas_hoje": 128
     }
   ]
 }
