@@ -1,128 +1,98 @@
 {
   "fonte": "https://github.com/trending?since=daily",
-  "coletado_em_brt": "2026-10-22T05:46-03:00",
-  "data": "2026-10-22",
-  "total": 12,
+  "coletado_em_brt": "2026-10-23T05:41-03:00",
+  "data": "2026-10-23",
+  "total": 9,
   "repos": [
     {
       "posicao": 1,
-      "repo": "cloudflare/security-audit-skill",
-      "link": "https://github.com/cloudflare/security-audit-skill",
-      "descricao": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
-      "linguagem": "JavaScript",
-      "estrelas_total": 37658,
-      "forks": 2352,
-      "estrelas_hoje": 2012
+      "repo": "php/php-src",
+      "link": "https://github.com/php/php-src",
+      "descricao": "The PHP Interpreter",
+      "linguagem": "C",
+      "estrelas_total": 41380,
+      "forks": 8332,
+      "estrelas_hoje": 287
     },
     {
       "posicao": 2,
-      "repo": "vllm-project/vllm",
-      "link": "https://github.com/vllm-project/vllm",
-      "descricao": "A high-throughput and memory-efficient inference and serving engine for LLMs",
+      "repo": "anthropics/knowledge-work-plugins",
+      "link": "https://github.com/anthropics/knowledge-work-plugins",
+      "descricao": "Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork",
       "linguagem": "Python",
-      "estrelas_total": 95059,
-      "forks": 23785,
-      "estrelas_hoje": 441
+      "estrelas_total": 31840,
+      "forks": 3546,
+      "estrelas_hoje": 303
     },
     {
       "posicao": 3,
-      "repo": "stablyai/orca",
-      "link": "https://github.com/stablyai/orca",
-      "descricao": "Orca is the place for working with a fleet of agents (e.g. Grok Bot, Claude Code). Run any coding agent with your own subscription. Available on desktop, mobile and remote runtime.",
-      "linguagem": "TypeScript",
-      "estrelas_total": 101905,
-      "forks": 6442,
-      "estrelas_hoje": 1541
-    },
-    {
-      "posicao": 4,
-      "repo": "headroomlabs-ai/headroom",
-      "link": "https://github.com/headroomlabs-ai/headroom",
-      "descricao": "Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 20% fewer tokens for coding agents, 60-95% fewer tokens for JSON, same answers. Library, proxy, MCP server.",
-      "linguagem": "Python",
-      "estrelas_total": 77445,
-      "forks": 6014,
-      "estrelas_hoje": 474
-    },
-    {
-      "posicao": 5,
       "repo": "DietrichGebert/ponytail",
       "link": "https://github.com/DietrichGebert/ponytail",
       "descricao": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
       "linguagem": "JavaScript",
-      "estrelas_total": 172319,
-      "forks": 9380,
-      "estrelas_hoje": 2079
+      "estrelas_total": 174135,
+      "forks": 9481,
+      "estrelas_hoje": 1948
     },
     {
-      "posicao": 6,
-      "repo": "Comfy-Org/ComfyUI",
-      "link": "https://github.com/Comfy-Org/ComfyUI",
-      "descricao": "The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface. The fastest local inference engine in the world.",
-      "linguagem": "Python",
-      "estrelas_total": 141787,
-      "forks": 16753,
-      "estrelas_hoje": 939
+      "posicao": 4,
+      "repo": "cloudflare/security-audit-skill",
+      "link": "https://github.com/cloudflare/security-audit-skill",
+      "descricao": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
+      "linguagem": "JavaScript",
+      "estrelas_total": 40362,
+      "forks": 2518,
+      "estrelas_hoje": 2979
     },
     {
-      "posicao": 7,
-      "repo": "supabase/supabase",
-      "link": "https://github.com/supabase/supabase",
-      "descricao": "The Postgres development platform. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications.",
-      "linguagem": "TypeScript",
-      "estrelas_total": 113210,
-      "forks": 16987,
-      "estrelas_hoje": 504
-    },
-    {
-      "posicao": 8,
-      "repo": "twentyhq/twenty",
-      "link": "https://github.com/twentyhq/twenty",
-      "descricao": "The open alternative to Salesforce, designed for AI.",
-      "linguagem": "TypeScript",
-      "estrelas_total": 59428,
-      "forks": 9681,
-      "estrelas_hoje": 112
-    },
-    {
-      "posicao": 9,
-      "repo": "shiyu-coder/Kronos",
-      "link": "https://github.com/shiyu-coder/Kronos",
-      "descricao": "Kronos: A Foundation Model for the Language of Financial Markets",
-      "linguagem": "Python",
-      "estrelas_total": 43023,
-      "forks": 7092,
-      "estrelas_hoje": 575
-    },
-    {
-      "posicao": 10,
-      "repo": "strelov1/freehire",
-      "link": "https://github.com/strelov1/freehire",
-      "descricao": "freehire — the open-source search engine for job seekers",
-      "linguagem": "Go",
-      "estrelas_total": 2620,
-      "forks": 258,
-      "estrelas_hoje": 360
-    },
-    {
-      "posicao": 11,
-      "repo": "akitaonrails/ai-memory",
-      "link": "https://github.com/akitaonrails/ai-memory",
-      "descricao": "Solution for long term memory for agent coding CLIs and to facilitate handoff between different agent vendors",
-      "linguagem": "Rust",
-      "estrelas_total": 12562,
-      "forks": 889,
-      "estrelas_hoje": 286
-    },
-    {
-      "posicao": 12,
+      "posicao": 5,
       "repo": "Graphify-Labs/graphify",
       "link": "https://github.com/Graphify-Labs/graphify",
       "descricao": "Turn any codebase, with its docs, SQL schemas, configs, and PDFs, into a queryable knowledge graph. A /graphify skill for Claude Code, Cursor, Codex, and Gemini CLI: local deterministic AST parsing, every edge explained, no vector store.",
       "linguagem": "Python",
-      "estrelas_total": 132091,
-      "forks": 12667,
-      "estrelas_hoje": 1433
+      "estrelas_total": 133418,
+      "forks": 12747,
+      "estrelas_hoje": 1408
+    },
+    {
+      "posicao": 6,
+      "repo": "supabase/supabase",
+      "link": "https://github.com/supabase/supabase",
+      "descricao": "The Postgres development platform. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications.",
+      "linguagem": "TypeScript",
+      "estrelas_total": 113640,
+      "forks": 17020,
+      "estrelas_hoje": 693
+    },
+    {
+      "posicao": 7,
+      "repo": "fastapi/fastapi",
+      "link": "https://github.com/fastapi/fastapi",
+      "descricao": "FastAPI framework, high performance, easy to learn, fast to code, ready for production",
+      "linguagem": "Python",
+      "estrelas_total": 103986,
+      "forks": 10103,
+      "estrelas_hoje": 101
+    },
+    {
+      "posicao": 8,
+      "repo": "luongnv89/claude-howto",
+      "link": "https://github.com/luongnv89/claude-howto",
+      "descricao": "A visual, example-driven guide to Claude Code — from basic concepts to advanced agents, with copy-paste templates that bring immediate value.",
+      "linguagem": "Python",
+      "estrelas_total": 43621,
+      "forks": 5417,
+      "estrelas_hoje": 177
+    },
+    {
+      "posicao": 9,
+      "repo": "Meloong-Git/PCL",
+      "link": "https://github.com/Meloong-Git/PCL",
+      "descricao": "Minecraft 启动器 Plain Craft Launcher（PCL）。",
+      "linguagem": "Visual Basic .NET",
+      "estrelas_total": 8836,
+      "forks": 1230,
+      "estrelas_hoje": 119
     }
   ]
 }
