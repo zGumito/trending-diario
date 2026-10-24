@@ -1,98 +1,88 @@
 {
   "fonte": "https://github.com/trending?since=daily",
-  "coletado_em_brt": "2026-10-23T05:41-03:00",
-  "data": "2026-10-23",
-  "total": 9,
+  "coletado_em_brt": "2026-10-24T05:16-03:00",
+  "data": "2026-10-24",
+  "total": 8,
   "repos": [
     {
       "posicao": 1,
-      "repo": "php/php-src",
-      "link": "https://github.com/php/php-src",
-      "descricao": "The PHP Interpreter",
-      "linguagem": "C",
-      "estrelas_total": 41380,
-      "forks": 8332,
-      "estrelas_hoje": 287
-    },
-    {
-      "posicao": 2,
-      "repo": "anthropics/knowledge-work-plugins",
-      "link": "https://github.com/anthropics/knowledge-work-plugins",
-      "descricao": "Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork",
-      "linguagem": "Python",
-      "estrelas_total": 31840,
-      "forks": 3546,
-      "estrelas_hoje": 303
-    },
-    {
-      "posicao": 3,
-      "repo": "DietrichGebert/ponytail",
-      "link": "https://github.com/DietrichGebert/ponytail",
-      "descricao": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
-      "linguagem": "JavaScript",
-      "estrelas_total": 174135,
-      "forks": 9481,
-      "estrelas_hoje": 1948
-    },
-    {
-      "posicao": 4,
       "repo": "cloudflare/security-audit-skill",
       "link": "https://github.com/cloudflare/security-audit-skill",
       "descricao": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
       "linguagem": "JavaScript",
-      "estrelas_total": 40362,
-      "forks": 2518,
-      "estrelas_hoje": 2979
+      "estrelas_total": 42689,
+      "forks": 2664,
+      "estrelas_hoje": 2716
+    },
+    {
+      "posicao": 2,
+      "repo": "php/php-src",
+      "link": "https://github.com/php/php-src",
+      "descricao": "The PHP Interpreter",
+      "linguagem": "C",
+      "estrelas_total": 41614,
+      "forks": 8366,
+      "estrelas_hoje": 716
+    },
+    {
+      "posicao": 3,
+      "repo": "anthropics/knowledge-work-plugins",
+      "link": "https://github.com/anthropics/knowledge-work-plugins",
+      "descricao": "Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork",
+      "linguagem": "Python",
+      "estrelas_total": 32412,
+      "forks": 3583,
+      "estrelas_hoje": 635
+    },
+    {
+      "posicao": 4,
+      "repo": "NVIDIA/OpenShell",
+      "link": "https://github.com/NVIDIA/OpenShell",
+      "descricao": "OpenShell is the safe, private runtime for autonomous AI agents.",
+      "linguagem": "Rust",
+      "estrelas_total": 18992,
+      "forks": 1899,
+      "estrelas_hoje": 1119
     },
     {
       "posicao": 5,
-      "repo": "Graphify-Labs/graphify",
-      "link": "https://github.com/Graphify-Labs/graphify",
-      "descricao": "Turn any codebase, with its docs, SQL schemas, configs, and PDFs, into a queryable knowledge graph. A /graphify skill for Claude Code, Cursor, Codex, and Gemini CLI: local deterministic AST parsing, every edge explained, no vector store.",
-      "linguagem": "Python",
-      "estrelas_total": 133418,
-      "forks": 12747,
-      "estrelas_hoje": 1408
+      "repo": "Renhuai123/ziwei-doushu",
+      "link": "https://github.com/Renhuai123/ziwei-doushu",
+      "descricao": "紫微斗数开源排盘引擎 — 基于倪海厦《天纪》体系，含完整排盘算法、四化系统、格局知识库、古籍原文数据",
+      "linguagem": "TypeScript",
+      "estrelas_total": 7090,
+      "forks": 1443,
+      "estrelas_hoje": 546
     },
     {
       "posicao": 6,
-      "repo": "supabase/supabase",
-      "link": "https://github.com/supabase/supabase",
-      "descricao": "The Postgres development platform. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications.",
-      "linguagem": "TypeScript",
-      "estrelas_total": 113640,
-      "forks": 17020,
-      "estrelas_hoje": 693
+      "repo": "SnailSploit/Claude-Red",
+      "link": "https://github.com/SnailSploit/Claude-Red",
+      "descricao": "claude-red is a curated library of offensive security skills designed for the Claude skills system. Each skill is a structured SKILL.md file that primes Claude with expert-level methodology for a specific attack surface — from SQLi to shellcode, EDR evasion to exploit development.",
+      "linguagem": "Python",
+      "estrelas_total": 8685,
+      "forks": 1114,
+      "estrelas_hoje": 226
     },
     {
       "posicao": 7,
-      "repo": "fastapi/fastapi",
-      "link": "https://github.com/fastapi/fastapi",
-      "descricao": "FastAPI framework, high performance, easy to learn, fast to code, ready for production",
+      "repo": "OpenBMB/VoxCPM",
+      "link": "https://github.com/OpenBMB/VoxCPM",
+      "descricao": "VoxCPM2: Tokenizer-Free TTS for Multilingual Speech Generation, Creative Voice Design, and True-to-Life Cloning",
       "linguagem": "Python",
-      "estrelas_total": 103986,
-      "forks": 10103,
-      "estrelas_hoje": 101
+      "estrelas_total": 40405,
+      "forks": 4591,
+      "estrelas_hoje": 150
     },
     {
       "posicao": 8,
-      "repo": "luongnv89/claude-howto",
-      "link": "https://github.com/luongnv89/claude-howto",
-      "descricao": "A visual, example-driven guide to Claude Code — from basic concepts to advanced agents, with copy-paste templates that bring immediate value.",
-      "linguagem": "Python",
-      "estrelas_total": 43621,
-      "forks": 5417,
-      "estrelas_hoje": 177
-    },
-    {
-      "posicao": 9,
-      "repo": "Meloong-Git/PCL",
-      "link": "https://github.com/Meloong-Git/PCL",
-      "descricao": "Minecraft 启动器 Plain Craft Launcher（PCL）。",
-      "linguagem": "Visual Basic .NET",
-      "estrelas_total": 8836,
-      "forks": 1230,
-      "estrelas_hoje": 119
+      "repo": "nodejs/node",
+      "link": "https://github.com/nodejs/node",
+      "descricao": "Node.js JavaScript runtime ✨🐢🚀✨",
+      "linguagem": "JavaScript",
+      "estrelas_total": 122989,
+      "forks": 39841,
+      "estrelas_hoje": 66
     }
   ]
 }
