@@ -1,0 +1,118 @@
+{
+  "fonte": "https://github.com/trending?since=daily",
+  "coletado_em_brt": "2026-10-26T06:09-03:00",
+  "data": "2026-10-26",
+  "total": 11,
+  "repos": [
+    {
+      "posicao": 1,
+      "repo": "makecindy/cindy",
+      "link": "https://github.com/makecindy/cindy",
+      "descricao": "Consider it done. The open-source AI agent that works out of the box · 想到，就能做到。开源、开箱即用的 AI Agent。",
+      "linguagem": "TypeScript",
+      "estrelas_total": 5498,
+      "forks": 714,
+      "estrelas_hoje": 675
+    },
+    {
+      "posicao": 2,
+      "repo": "Nutlope/hallmark",
+      "link": "https://github.com/Nutlope/hallmark",
+      "descricao": "Anti-AI-slop design skill for Claude Code, Cursor, and Codex.",
+      "linguagem": "CSS",
+      "estrelas_total": 34778,
+      "forks": 1810,
+      "estrelas_hoje": 1317
+    },
+    {
+      "posicao": 3,
+      "repo": "debpalash/VoiceStudio",
+      "link": "https://github.com/debpalash/VoiceStudio",
+      "descricao": "VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.",
+      "linguagem": "Python",
+      "estrelas_total": 87649,
+      "forks": 9676,
+      "estrelas_hoje": 1592
+    },
+    {
+      "posicao": 4,
+      "repo": "pbakaus/impeccable",
+      "link": "https://github.com/pbakaus/impeccable",
+      "descricao": "The design language that makes your AI harness better at design.",
+      "linguagem": "Rust",
+      "estrelas_total": 88274,
+      "forks": 5270,
+      "estrelas_hoje": 1092
+    },
+    {
+      "posicao": 5,
+      "repo": "pollen-robotics/microduck",
+      "link": "https://github.com/pollen-robotics/microduck",
+      "descricao": "A Tiny biped duck robot 🦆",
+      "linguagem": "Rust",
+      "estrelas_total": 12020,
+      "forks": 1511,
+      "estrelas_hoje": 647
+    },
+    {
+      "posicao": 6,
+      "repo": "TauricResearch/TradingAgents",
+      "link": "https://github.com/TauricResearch/TradingAgents",
+      "descricao": "TradingAgents: Multi-Agents LLM Financial Trading Framework",
+      "linguagem": "Python",
+      "estrelas_total": 115101,
+      "forks": 22173,
+      "estrelas_hoje": 381
+    },
+    {
+      "posicao": 7,
+      "repo": "Renhuai123/ziwei-doushu",
+      "link": "https://github.com/Renhuai123/ziwei-doushu",
+      "descricao": "紫微斗数开源排盘引擎 — 基于倪海厦《天纪》体系，含完整排盘算法、四化系统、格局知识库、古籍原文数据",
+      "linguagem": "TypeScript",
+      "estrelas_total": 8095,
+      "forks": 1623,
+      "estrelas_hoje": 199
+    },
+    {
+      "posicao": 8,
+      "repo": "JetBrains/thinkrail",
+      "link": "https://github.com/JetBrains/thinkrail",
+      "descricao": "Vibe code with pi in a lightweight, real IDE that customises itself around the way you work — The Vibe You Need",
+      "linguagem": "TypeScript",
+      "estrelas_total": 2188,
+      "forks": 125,
+      "estrelas_hoje": 51
+    },
+    {
+      "posicao": 9,
+      "repo": "coollabsio/coolify",
+      "link": "https://github.com/coollabsio/coolify",
+      "descricao": "An open-source, self-hostable PaaS alternative to Vercel, Heroku & Netlify that lets you easily deploy static sites, databases, full-stack applications and 360+ one-click services on your own servers.",
+      "linguagem": "PHP",
+      "estrelas_total": 64766,
+      "forks": 5814,
+      "estrelas_hoje": 152
+    },
+    {
+      "posicao": 10,
+      "repo": "cloudflare/security-audit-skill",
+      "link": "https://github.com/cloudflare/security-audit-skill",
+      "descricao": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
+      "linguagem": "JavaScript",
+      "estrelas_total": 47593,
+      "forks": 2955,
+      "estrelas_hoje": 2878
+    },
+    {
+      "posicao": 11,
+      "repo": "AgriciDaniel/claude-seo",
+      "link": "https://github.com/AgriciDaniel/claude-seo",
+      "descricao": "Universal SEO skill for Claude Code. 26 sub-skills + 19 sub-agents covering technical SEO, E-E-A-T, schema, GEO/AEO, agent readiness (Lighthouse Agentic Browsing, WebMCP, llms.txt), backlinks, local SEO, e-commerce, international SEO, Google APIs, and PDF/Excel reporting. 9 optional extensions for live SEO data.",
+      "linguagem": "Python",
+      "estrelas_total": 21526,
+      "forks": 2979,
+      "estrelas_hoje": 197
+    }
+  ]
+}
