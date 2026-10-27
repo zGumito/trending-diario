@@ -1,0 +1,148 @@
+{
+  "fonte": "https://github.com/trending?since=daily",
+  "coletado_em_brt": "2026-10-27T06:11-03:00",
+  "data": "2026-10-27",
+  "total": 14,
+  "repos": [
+    {
+      "posicao": 1,
+      "repo": "Nutlope/hallmark",
+      "link": "https://github.com/Nutlope/hallmark",
+      "descricao": "Anti-AI-slop design skill for Claude Code, Cursor, and Codex.",
+      "linguagem": "CSS",
+      "estrelas_total": 37505,
+      "forks": 1953,
+      "estrelas_hoje": 2244
+    },
+    {
+      "posicao": 2,
+      "repo": "TauricResearch/TradingAgents",
+      "link": "https://github.com/TauricResearch/TradingAgents",
+      "descricao": "TradingAgents: Multi-Agents LLM Financial Trading Framework",
+      "linguagem": "Python",
+      "estrelas_total": 116759,
+      "forks": 22366,
+      "estrelas_hoje": 1395
+    },
+    {
+      "posicao": 3,
+      "repo": "JetBrains/thinkrail",
+      "link": "https://github.com/JetBrains/thinkrail",
+      "descricao": "Vibe code with pi in a lightweight, real IDE that customises itself around the way you work — The Vibe You Need",
+      "linguagem": "TypeScript",
+      "estrelas_total": 3364,
+      "forks": 179,
+      "estrelas_hoje": 1173
+    },
+    {
+      "posicao": 4,
+      "repo": "makecindy/cindy",
+      "link": "https://github.com/makecindy/cindy",
+      "descricao": "Consider it done. The open-source AI agent that works out of the box · 想到，就能做到。开源、开箱即用的 AI Agent。",
+      "linguagem": "TypeScript",
+      "estrelas_total": 6999,
+      "forks": 841,
+      "estrelas_hoje": 1296
+    },
+    {
+      "posicao": 5,
+      "repo": "affaan-m/ECC",
+      "link": "https://github.com/affaan-m/ECC",
+      "descricao": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+      "linguagem": "JavaScript",
+      "estrelas_total": 290202,
+      "forks": 43006,
+      "estrelas_hoje": 896
+    },
+    {
+      "posicao": 6,
+      "repo": "pbakaus/impeccable",
+      "link": "https://github.com/pbakaus/impeccable",
+      "descricao": "The design language that makes your AI harness better at design.",
+      "linguagem": "Rust",
+      "estrelas_total": 89683,
+      "forks": 5330,
+      "estrelas_hoje": 1506
+    },
+    {
+      "posicao": 7,
+      "repo": "NVIDIA/SkillSpector",
+      "link": "https://github.com/NVIDIA/SkillSpector",
+      "descricao": "Security scanner for AI agent skills. Detect vulnerabilities, malicious patterns, security risks, prompt injection, data exfiltration, and supply-chain risks in Claude Code, Codex, and MCP skills before you install them.",
+      "linguagem": "Python",
+      "estrelas_total": 22559,
+      "forks": 1960,
+      "estrelas_hoje": 214
+    },
+    {
+      "posicao": 8,
+      "repo": "pollen-robotics/microduck",
+      "link": "https://github.com/pollen-robotics/microduck",
+      "descricao": "A Tiny biped duck robot 🦆",
+      "linguagem": "Rust",
+      "estrelas_total": 12622,
+      "forks": 1564,
+      "estrelas_hoje": 843
+    },
+    {
+      "posicao": 9,
+      "repo": "nightly-labs/openbot",
+      "link": "https://github.com/nightly-labs/openbot",
+      "descricao": "A local-first desktop workspace for persistent AI teammates. Run Codex, Claude, and Grok with dedicated workspaces, task queues, file sharing, browser control, and agent-to-agent collaboration.",
+      "linguagem": "TypeScript",
+      "estrelas_total": 1766,
+      "forks": 207,
+      "estrelas_hoje": 176
+    },
+    {
+      "posicao": 10,
+      "repo": "Panniantong/Agent-Reach",
+      "link": "https://github.com/Panniantong/Agent-Reach",
+      "descricao": "Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.",
+      "linguagem": "Python",
+      "estrelas_total": 104317,
+      "forks": 9247,
+      "estrelas_hoje": 746
+    },
+    {
+      "posicao": 11,
+      "repo": "debpalash/VoiceStudio",
+      "link": "https://github.com/debpalash/VoiceStudio",
+      "descricao": "VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.",
+      "linguagem": "Python",
+      "estrelas_total": 90188,
+      "forks": 9940,
+      "estrelas_hoje": 2297
+    },
+    {
+      "posicao": 12,
+      "repo": "gitroomhq/postiz-app",
+      "link": "https://github.com/gitroomhq/postiz-app",
+      "descricao": "📨 The ultimate agentic social media scheduling tool 🤖",
+      "linguagem": "TypeScript",
+      "estrelas_total": 38765,
+      "forks": 7467,
+      "estrelas_hoje": 188
+    },
+    {
+      "posicao": 13,
+      "repo": "alchaincyf/huashu-design",
+      "link": "https://github.com/alchaincyf/huashu-design",
+      "descricao": "Huashu Design 3.0 · 在 agent 里打一句话，拿回能交付的设计：网页 / App 原型 / 可编辑 PPTX / 动画 / 信息图 · 六个候选挑三个方向 · 84 种带样张的风格库 · 越用越懂你的外观账本与设计体检 · HTML-native design skill for Claude Code, Codex, Cursor & any agent",
+      "linguagem": "HTML",
+      "estrelas_total": 27486,
+      "forks": 2998,
+      "estrelas_hoje": 251
+    },
+    {
+      "posicao": 14,
+      "repo": "multica-ai/andrej-karpathy-skills",
+      "link": "https://github.com/multica-ai/andrej-karpathy-skills",
+      "descricao": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.",
+      "linguagem": null,
+      "estrelas_total": 225048,
+      "forks": 22499,
+      "estrelas_hoje": 638
+    }
+  ]
+}
