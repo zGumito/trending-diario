@@ -10,6 +10,8 @@ on:
     - cron: "13 6 * * *"   # 03h13
     - cron: "37 7 * * *"   # 04h37
     - cron: "52 8 * * *"   # 05h52
+    - cron: "17 10 * * *"  # 07h17: tentativa extra antes do resumo
+    - cron: "17 11 * * *"  # 08h17: última tentativa antes do resumo
   workflow_dispatch:        # botão para rodar na mão (força nova coleta)
 
 permissions:
