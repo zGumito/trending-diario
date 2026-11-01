@@ -1,8 +1,8 @@
 {
   "fonte": "https://github.com/trending?since=daily",
-  "coletado_em_brt": "2026-10-31T06:49-03:00",
-  "data": "2026-10-31",
-  "total": 15,
+  "coletado_em_brt": "2026-11-01T07:39-03:00",
+  "data": "2026-11-01",
+  "total": 17,
   "repos": [
     {
       "posicao": 1,
@@ -10,149 +10,169 @@
       "link": "https://github.com/thedotmack/claude-mem",
       "descricao": "Persistent Context Across Sessions for Every Agent – Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Claude Code, OpenClaw, Codex, Gemini, Hermes, Copilot, OpenCode + More",
       "linguagem": "TypeScript",
-      "estrelas_total": 106863,
-      "forks": 9399,
-      "estrelas_hoje": 1140
+      "estrelas_total": 108388,
+      "forks": 9507,
+      "estrelas_hoje": 1723
     },
     {
       "posicao": 2,
-      "repo": "milind-soni/OpenMausBot",
-      "link": "https://github.com/milind-soni/OpenMausBot",
-      "descricao": "Open-source Grok Bot alternative with a virtual machine that bots can use",
-      "linguagem": "TypeScript",
-      "estrelas_total": 9115,
-      "forks": 1244,
-      "estrelas_hoje": 895
-    },
-    {
-      "posicao": 3,
-      "repo": "pbakaus/impeccable",
-      "link": "https://github.com/pbakaus/impeccable",
-      "descricao": "The design vocabulary for your coding agent. Steer with polish and bolder, review with critique and audit, catch AI slop before it ships.",
-      "linguagem": "Rust",
-      "estrelas_total": 97556,
-      "forks": 5748,
-      "estrelas_hoje": 2300
-    },
-    {
-      "posicao": 4,
-      "repo": "CopilotKit/OpenBot",
-      "link": "https://github.com/CopilotKit/OpenBot",
-      "descricao": "Open-source AI coworkers that each get a computer of their own: a browser, files and tools, with every action decided before it happens and recorded after. Bring any AG-UI agent.",
-      "linguagem": "TypeScript",
-      "estrelas_total": 9001,
-      "forks": 1123,
-      "estrelas_hoje": 706
-    },
-    {
-      "posicao": 5,
-      "repo": "Renhuai123/ziwei-doushu",
-      "link": "https://github.com/Renhuai123/ziwei-doushu",
-      "descricao": "紫微斗数开源排盘引擎 — 基于倪海厦《天纪》体系，含完整排盘算法、四化系统、格局知识库、古籍原文数据",
-      "linguagem": "TypeScript",
-      "estrelas_total": 11720,
-      "forks": 2314,
-      "estrelas_hoje": 1126
-    },
-    {
-      "posicao": 6,
-      "repo": "expo/skills",
-      "link": "https://github.com/expo/skills",
-      "descricao": "A collection of AI agent skills for working with Expo projects and Expo Application Services",
-      "linguagem": "Shell",
-      "estrelas_total": 3961,
-      "forks": 249,
-      "estrelas_hoje": 38
-    },
-    {
-      "posicao": 7,
-      "repo": "macro-inc/macro",
-      "link": "https://github.com/macro-inc/macro",
-      "descricao": "Macro is a unified workspace for teams: email, chat, docs, tasks, agents, calls, and CRM — @-linked together with shared AI memory.",
-      "linguagem": "Rust",
-      "estrelas_total": 5974,
-      "forks": 546,
-      "estrelas_hoje": 57
-    },
-    {
-      "posicao": 8,
-      "repo": "mattpocock/skills",
-      "link": "https://github.com/mattpocock/skills",
-      "descricao": "Skills for Real Engineers. Straight from my .agents directory.",
-      "linguagem": "Shell",
-      "estrelas_total": 307769,
-      "forks": 25900,
-      "estrelas_hoje": 876
-    },
-    {
-      "posicao": 9,
-      "repo": "pingdotgg/t3code",
-      "link": "https://github.com/pingdotgg/t3code",
-      "descricao": "",
-      "linguagem": "TypeScript",
-      "estrelas_total": 33264,
-      "forks": 8696,
-      "estrelas_hoje": 930
-    },
-    {
-      "posicao": 10,
-      "repo": "HKUDS/DeepTutor",
-      "link": "https://github.com/HKUDS/DeepTutor",
-      "descricao": "DeepTutor: Lifelong Personalized Tutoring. https://deeptutor.info/ .",
-      "linguagem": "Python",
-      "estrelas_total": 52171,
-      "forks": 6388,
-      "estrelas_hoje": 2282
-    },
-    {
-      "posicao": 11,
-      "repo": "anthropics/skills",
-      "link": "https://github.com/anthropics/skills",
-      "descricao": "Public repository for Agent Skills",
-      "linguagem": "Python",
-      "estrelas_total": 185610,
-      "forks": 21914,
-      "estrelas_hoje": 295
-    },
-    {
-      "posicao": 12,
-      "repo": "JetBrains/thinkrail",
-      "link": "https://github.com/JetBrains/thinkrail",
-      "descricao": "Vibe code with pi in a lightweight, real IDE that customises itself around the way you work — The Vibe You Need",
-      "linguagem": "TypeScript",
-      "estrelas_total": 6724,
-      "forks": 365,
-      "estrelas_hoje": 722
-    },
-    {
-      "posicao": 13,
-      "repo": "togg53192-cmd/jailbreaks",
-      "link": "https://github.com/togg53192-cmd/jailbreaks",
-      "descricao": "LIST OF ALL MY JAILBREAKS",
-      "linguagem": null,
-      "estrelas_total": 11713,
-      "forks": 1727,
-      "estrelas_hoje": 2055
-    },
-    {
-      "posicao": 14,
-      "repo": "obra/superpowers",
-      "link": "https://github.com/obra/superpowers",
-      "descricao": "An agentic skills framework & software development methodology that works.",
-      "linguagem": "Shell",
-      "estrelas_total": 309661,
-      "forks": 27549,
-      "estrelas_hoje": 1259
-    },
-    {
-      "posicao": 15,
       "repo": "lightpanda-io/browser",
       "link": "https://github.com/lightpanda-io/browser",
       "descricao": "Lightpanda: the headless browser designed for AI and automation",
       "linguagem": "Zig",
-      "estrelas_total": 38718,
-      "forks": 1884,
-      "estrelas_hoje": 626
+      "estrelas_total": 39539,
+      "forks": 1931,
+      "estrelas_hoje": 929
+    },
+    {
+      "posicao": 3,
+      "repo": "shiyu-coder/Kronos",
+      "link": "https://github.com/shiyu-coder/Kronos",
+      "descricao": "Kronos: A Foundation Model for the Language of Financial Markets",
+      "linguagem": "Python",
+      "estrelas_total": 44880,
+      "forks": 7420,
+      "estrelas_hoje": 611
+    },
+    {
+      "posicao": 4,
+      "repo": "pingdotgg/t3code",
+      "link": "https://github.com/pingdotgg/t3code",
+      "descricao": "",
+      "linguagem": "TypeScript",
+      "estrelas_total": 36385,
+      "forks": 8839,
+      "estrelas_hoje": 1148
+    },
+    {
+      "posicao": 5,
+      "repo": "milind-soni/OpenMausBot",
+      "link": "https://github.com/milind-soni/OpenMausBot",
+      "descricao": "Open-source Grok Bot alternative with a virtual machine that bots can use",
+      "linguagem": "TypeScript",
+      "estrelas_total": 10046,
+      "forks": 1391,
+      "estrelas_hoje": 1303
+    },
+    {
+      "posicao": 6,
+      "repo": "public-apis/public-apis",
+      "link": "https://github.com/public-apis/public-apis",
+      "descricao": "A collective list of free APIs",
+      "linguagem": "Python",
+      "estrelas_total": 493917,
+      "forks": 55147,
+      "estrelas_hoje": 298
+    },
+    {
+      "posicao": 7,
+      "repo": "cjpais/Handy",
+      "link": "https://github.com/cjpais/Handy",
+      "descricao": "A free, open source, and extensible speech-to-text application that works completely offline.",
+      "linguagem": "Rust",
+      "estrelas_total": 35999,
+      "forks": 3422,
+      "estrelas_hoje": 611
+    },
+    {
+      "posicao": 8,
+      "repo": "Donchitos/Claude-Code-Game-Studios",
+      "link": "https://github.com/Donchitos/Claude-Code-Game-Studios",
+      "descricao": "Turn Claude Code into a full game dev studio — 49 AI agents, 72 workflow skills, and a complete coordination system mirroring real studio hierarchy.",
+      "linguagem": "Shell",
+      "estrelas_total": 31564,
+      "forks": 4315,
+      "estrelas_hoje": 742
+    },
+    {
+      "posicao": 9,
+      "repo": "kornia/kornia",
+      "link": "https://github.com/kornia/kornia",
+      "descricao": "🐍 Geometric Computer Vision Library for Spatial AI",
+      "linguagem": "Python",
+      "estrelas_total": 11557,
+      "forks": 1456,
+      "estrelas_hoje": 88
+    },
+    {
+      "posicao": 10,
+      "repo": "beenuar/AiSOC",
+      "link": "https://github.com/beenuar/AiSOC",
+      "descricao": "Open-source AI Security Operations Center: alert fusion, LLM-agent triage, MITRE ATT&CK investigation, and a replayable decision ledger for every agent step. Self-hostable, runs with no API keys, MIT licensed. Ships an MCP server for Claude, Cursor and Continue.",
+      "linguagem": "Python",
+      "estrelas_total": 5817,
+      "forks": 611,
+      "estrelas_hoje": 436
+    },
+    {
+      "posicao": 11,
+      "repo": "Renhuai123/ziwei-doushu",
+      "link": "https://github.com/Renhuai123/ziwei-doushu",
+      "descricao": "紫微斗数开源排盘引擎 — 基于倪海厦《天纪》体系，含完整排盘算法、四化系统、格局知识库、古籍原文数据",
+      "linguagem": "TypeScript",
+      "estrelas_total": 12699,
+      "forks": 2489,
+      "estrelas_hoje": 1092
+    },
+    {
+      "posicao": 12,
+      "repo": "anomalyco/hex",
+      "link": "https://github.com/anomalyco/hex",
+      "descricao": "Local-first voice dictation for macOS. Hold a shortcut, speak, and paste into any app. Native Rust, on-device speech recognition, and a Linux beta.",
+      "linguagem": "Rust",
+      "estrelas_total": 2434,
+      "forks": 156,
+      "estrelas_hoje": 172
+    },
+    {
+      "posicao": 13,
+      "repo": "CopilotKit/OpenBot",
+      "link": "https://github.com/CopilotKit/OpenBot",
+      "descricao": "Open-source AI coworkers that each get a computer of their own: a browser, files and tools, with every action decided before it happens and recorded after. Bring any AG-UI agent.",
+      "linguagem": "TypeScript",
+      "estrelas_total": 9202,
+      "forks": 1159,
+      "estrelas_hoje": 608
+    },
+    {
+      "posicao": 14,
+      "repo": "togg53192-cmd/jailbreaks",
+      "link": "https://github.com/togg53192-cmd/jailbreaks",
+      "descricao": "LIST OF ALL MY JAILBREAKS",
+      "linguagem": null,
+      "estrelas_total": 12475,
+      "forks": 1882,
+      "estrelas_hoje": 1924
+    },
+    {
+      "posicao": 15,
+      "repo": "patchy631/ai-engineering-hub",
+      "link": "https://github.com/patchy631/ai-engineering-hub",
+      "descricao": "In-depth tutorials on LLMs, RAGs and real-world AI agent applications.",
+      "linguagem": "Jupyter Notebook",
+      "estrelas_total": 39693,
+      "forks": 6439,
+      "estrelas_hoje": 573
+    },
+    {
+      "posicao": 16,
+      "repo": "FlashML-org/FreeToken",
+      "link": "https://github.com/FlashML-org/FreeToken",
+      "descricao": "FreeToken brings datacenter-scale model serving to your desktop. Run massive models locally, fast and efficiently.",
+      "linguagem": "Python",
+      "estrelas_total": 15066,
+      "forks": 1532,
+      "estrelas_hoje": 232
+    },
+    {
+      "posicao": 17,
+      "repo": "hyprwm/Hyprland",
+      "link": "https://github.com/hyprwm/Hyprland",
+      "descricao": "Hyprland is an independent, highly customizable, dynamic tiling Wayland compositor that doesn't sacrifice on its looks.",
+      "linguagem": "C++",
+      "estrelas_total": 39109,
+      "forks": 2111,
+      "estrelas_hoje": 37
     }
   ]
 }
