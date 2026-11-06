@@ -1,7 +1,7 @@
 {
   "fonte": "https://github.com/trending?since=daily",
-  "coletado_em_brt": "2026-11-05T08:13-03:00",
-  "data": "2026-11-05",
+  "coletado_em_brt": "2026-11-06T08:11-03:00",
+  "data": "2026-11-06",
   "total": 15,
   "repos": [
     {
@@ -10,9 +10,9 @@
       "link": "https://github.com/NVIDIA/auto-ontology",
       "descricao": "Auto Ontology is a Python framework for building semantic, graph-based reasoning layers over data. It enables deterministic query generation, better context retrieval, and more explainable AI for LLM and agent workflows.",
       "linguagem": "Python",
-      "estrelas_total": 6248,
-      "forks": 493,
-      "estrelas_hoje": 2050
+      "estrelas_total": 8236,
+      "forks": 659,
+      "estrelas_hoje": 2679
     },
     {
       "posicao": 2,
@@ -20,9 +20,9 @@
       "link": "https://github.com/mattpocock/skills",
       "descricao": "Skills for Real Engineers. Straight from my .agents directory.",
       "linguagem": "Shell",
-      "estrelas_total": 314072,
-      "forks": 26337,
-      "estrelas_hoje": 2053
+      "estrelas_total": 316065,
+      "forks": 26445,
+      "estrelas_hoje": 2071
     },
     {
       "posicao": 3,
@@ -30,9 +30,9 @@
       "link": "https://github.com/garrytan/gstack",
       "descricao": "Use Garry Tan's exact Claude Code setup: 23 opinionated tools that serve as CEO, Designer, Eng Manager, Release Manager, Doc Engineer, and QA",
       "linguagem": "TypeScript",
-      "estrelas_total": 139596,
-      "forks": 20663,
-      "estrelas_hoje": 290
+      "estrelas_total": 140289,
+      "forks": 20713,
+      "estrelas_hoje": 612
     },
     {
       "posicao": 4,
@@ -40,9 +40,9 @@
       "link": "https://github.com/Usagi-org/ai-goofish-monitor",
       "descricao": "基于 Playwright 和AI实现的闲鱼多任务实时/定时监控与智能分析系统，配备了功能完善的后台管理UI。帮助用户从闲鱼海量商品中，找到心仪产品。",
       "linguagem": "Python",
-      "estrelas_total": 17276,
-      "forks": 2924,
-      "estrelas_hoje": 242
+      "estrelas_total": 18123,
+      "forks": 2994,
+      "estrelas_hoje": 240
     },
     {
       "posicao": 5,
@@ -50,9 +50,9 @@
       "link": "https://github.com/D4Vinci/Scrapling",
       "descricao": "🕷️ The BEST Web Scraping framework that handles everything from a single request to a full-scale crawl! Don't be shy, join here: https://discord.gg/EMgGbDceNQ and follow here for daily tips and tricks: https://x.com/Scrapling_dev",
       "linguagem": "Python",
-      "estrelas_total": 97261,
-      "forks": 10191,
-      "estrelas_hoje": 1661
+      "estrelas_total": 98544,
+      "forks": 10315,
+      "estrelas_hoje": 1655
     },
     {
       "posicao": 6,
@@ -60,8 +60,8 @@
       "link": "https://github.com/vercel-labs/agent-desktop",
       "descricao": "Computer use CLI for AI agents",
       "linguagem": "Rust",
-      "estrelas_total": 16083,
-      "forks": 1123,
+      "estrelas_total": 17633,
+      "forks": 1256,
       "estrelas_hoje": 2173
     },
     {
@@ -70,8 +70,8 @@
       "link": "https://github.com/max-sixty/worktrunk",
       "descricao": "Worktrunk is a CLI for Git worktree management, designed for parallel AI agent workflows",
       "linguagem": "Rust",
-      "estrelas_total": 11301,
-      "forks": 424,
+      "estrelas_total": 11716,
+      "forks": 449,
       "estrelas_hoje": 546
     },
     {
@@ -80,9 +80,9 @@
       "link": "https://github.com/lz4/lz4",
       "descricao": "Extremely Fast Compression algorithm",
       "linguagem": "C",
-      "estrelas_total": 12214,
-      "forks": 1630,
-      "estrelas_hoje": 16
+      "estrelas_total": 12522,
+      "forks": 1640,
+      "estrelas_hoje": 23
     },
     {
       "posicao": 9,
@@ -90,9 +90,9 @@
       "link": "https://github.com/google/skills",
       "descricao": "Agent Skills for Google products and technologies",
       "linguagem": "Python",
-      "estrelas_total": 22075,
-      "forks": 1880,
-      "estrelas_hoje": 199
+      "estrelas_total": 22602,
+      "forks": 1904,
+      "estrelas_hoje": 211
     },
     {
       "posicao": 10,
@@ -100,9 +100,9 @@
       "link": "https://github.com/vercel-labs/agent-browser",
       "descricao": "Browser automation CLI for AI agents",
       "linguagem": "Rust",
-      "estrelas_total": 45597,
-      "forks": 3136,
-      "estrelas_hoje": 132
+      "estrelas_total": 46206,
+      "forks": 3164,
+      "estrelas_hoje": 150
     },
     {
       "posicao": 11,
@@ -110,9 +110,9 @@
       "link": "https://github.com/scenario-labs/skills",
       "descricao": "Get production-ready images, video, audio, and 3D from any AI agent: skills that pick the right model, price before spending, and keep characters and brands consistent through the Scenario MCP, plus expert teams that drive Blender, Maya, ZBrush, Unreal, and Unity.",
       "linguagem": "Python",
-      "estrelas_total": 2725,
-      "forks": 254,
-      "estrelas_hoje": 224
+      "estrelas_total": 3332,
+      "forks": 289,
+      "estrelas_hoje": 667
     },
     {
       "posicao": 12,
@@ -120,9 +120,9 @@
       "link": "https://github.com/ConardLi/garden-skills",
       "descricao": "ConardLi's open-source Skills collection, featuring web design, knowledge retrieval, image generation, and more.",
       "linguagem": "JavaScript",
-      "estrelas_total": 13931,
-      "forks": 1631,
-      "estrelas_hoje": 181
+      "estrelas_total": 14437,
+      "forks": 1670,
+      "estrelas_hoje": 175
     },
     {
       "posicao": 13,
@@ -130,9 +130,9 @@
       "link": "https://github.com/microsoft/VibeVoice",
       "descricao": "Open-Source Frontier Voice AI",
       "linguagem": "Python",
-      "estrelas_total": 55369,
-      "forks": 6241,
-      "estrelas_hoje": 214
+      "estrelas_total": 56353,
+      "forks": 6345,
+      "estrelas_hoje": 223
     },
     {
       "posicao": 14,
@@ -140,9 +140,9 @@
       "link": "https://github.com/floci-io/floci",
       "descricao": "Light, fluffy, and always free - The AWS Local Emulator alternative",
       "linguagem": "Java",
-      "estrelas_total": 29974,
-      "forks": 3303,
-      "estrelas_hoje": 784
+      "estrelas_total": 30701,
+      "forks": 3349,
+      "estrelas_hoje": 779
     },
     {
       "posicao": 15,
@@ -150,9 +150,9 @@
       "link": "https://github.com/JiaFeiMiao-K-Cat/DiscImageStudio",
       "descricao": "",
       "linguagem": "C#",
-      "estrelas_total": 6946,
-      "forks": 246,
-      "estrelas_hoje": 1778
+      "estrelas_total": 7601,
+      "forks": 272,
+      "estrelas_hoje": 984
     }
   ]
 }
