@@ -1,0 +1,118 @@
+{
+  "fonte": "https://github.com/trending?since=daily",
+  "coletado_em_brt": "2026-11-09T08:51-03:00",
+  "data": "2026-11-09",
+  "total": 11,
+  "repos": [
+    {
+      "posicao": 1,
+      "repo": "anthropics/skills",
+      "link": "https://github.com/anthropics/skills",
+      "descricao": "Public repository for Agent Skills",
+      "linguagem": "Python",
+      "estrelas_total": 190129,
+      "forks": 22388,
+      "estrelas_hoje": 1052
+    },
+    {
+      "posicao": 2,
+      "repo": "meta/astryx",
+      "link": "https://github.com/meta/astryx",
+      "descricao": "An open source design system that's fully customizable and agent ready",
+      "linguagem": "TypeScript",
+      "estrelas_total": 18292,
+      "forks": 1421,
+      "estrelas_hoje": 3324
+    },
+    {
+      "posicao": 3,
+      "repo": "sherlock-project/sherlock",
+      "link": "https://github.com/sherlock-project/sherlock",
+      "descricao": "Hunt down social media accounts by username across social networks",
+      "linguagem": "Python",
+      "estrelas_total": 105870,
+      "forks": 12292,
+      "estrelas_hoje": 4294
+    },
+    {
+      "posicao": 4,
+      "repo": "google-deepmind/mujoco",
+      "link": "https://github.com/google-deepmind/mujoco",
+      "descricao": "Multi-Joint dynamics with Contact. A general purpose physics simulator.",
+      "linguagem": "C++",
+      "estrelas_total": 16709,
+      "forks": 1970,
+      "estrelas_hoje": 579
+    },
+    {
+      "posicao": 5,
+      "repo": "anthropics/claude-quickstarts",
+      "link": "https://github.com/anthropics/claude-quickstarts",
+      "descricao": "A collection of projects designed to help developers quickly get started with building deployable applications using the Claude API",
+      "linguagem": "Python",
+      "estrelas_total": 19723,
+      "forks": 3293,
+      "estrelas_hoje": 560
+    },
+    {
+      "posicao": 6,
+      "repo": "garrytan/gbrain",
+      "link": "https://github.com/garrytan/gbrain",
+      "descricao": "Garry's Opinionated OpenClaw/Hermes Agent Brain",
+      "linguagem": "TypeScript",
+      "estrelas_total": 31848,
+      "forks": 4742,
+      "estrelas_hoje": 215
+    },
+    {
+      "posicao": 7,
+      "repo": "vercel-labs/agent-browser",
+      "link": "https://github.com/vercel-labs/agent-browser",
+      "descricao": "Browser automation CLI for AI agents",
+      "linguagem": "Rust",
+      "estrelas_total": 48107,
+      "forks": 3286,
+      "estrelas_hoje": 914
+    },
+    {
+      "posicao": 8,
+      "repo": "ruvnet/RuView",
+      "link": "https://github.com/ruvnet/RuView",
+      "descricao": "π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a single pixel of video.",
+      "linguagem": "Rust",
+      "estrelas_total": 103137,
+      "forks": 13388,
+      "estrelas_hoje": 203
+    },
+    {
+      "posicao": 9,
+      "repo": "ZhuLinsen/daily_stock_analysis",
+      "link": "https://github.com/ZhuLinsen/daily_stock_analysis",
+      "descricao": "LLM 驱动的多市场股票智能分析系统：多源行情、实时新闻、决策看板与自动推送，支持零成本定时运行。 LLM-powered multi-market stock analysis system with multi-source market data, real-time news, decision dashboard, automated notifications, and cost-free scheduled runs.",
+      "linguagem": "Python",
+      "estrelas_total": 68440,
+      "forks": 56300,
+      "estrelas_hoje": 505
+    },
+    {
+      "posicao": 10,
+      "repo": "homeassistant-ai/ha-mcp",
+      "link": "https://github.com/homeassistant-ai/ha-mcp",
+      "descricao": "Configure and automate Home Assistant with Claude, ChatGPT, and other AI assistants.",
+      "linguagem": "Python",
+      "estrelas_total": 5541,
+      "forks": 272,
+      "estrelas_hoje": 31
+    },
+    {
+      "posicao": 11,
+      "repo": "milind-soni/OpenMausBot",
+      "link": "https://github.com/milind-soni/OpenMausBot",
+      "descricao": "Open-source Grok Bot alternative with a virtual machine that bots can use",
+      "linguagem": "TypeScript",
+      "estrelas_total": 19153,
+      "forks": 2640,
+      "estrelas_hoje": 1589
+    }
+  ]
+}

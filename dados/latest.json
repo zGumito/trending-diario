@@ -1,158 +1,118 @@
 {
   "fonte": "https://github.com/trending?since=daily",
-  "coletado_em_brt": "2026-11-08T08:31-03:00",
-  "data": "2026-11-08",
-  "total": 15,
+  "coletado_em_brt": "2026-11-09T08:51-03:00",
+  "data": "2026-11-09",
+  "total": 11,
   "repos": [
     {
       "posicao": 1,
-      "repo": "vercel-labs/agent-browser",
-      "link": "https://github.com/vercel-labs/agent-browser",
-      "descricao": "Browser automation CLI for AI agents",
-      "linguagem": "Rust",
-      "estrelas_total": 47194,
-      "forks": 3233,
-      "estrelas_hoje": 190
-    },
-    {
-      "posicao": 2,
-      "repo": "cloudflare/security-audit-skill",
-      "link": "https://github.com/cloudflare/security-audit-skill",
-      "descricao": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
-      "linguagem": "JavaScript",
-      "estrelas_total": 66297,
-      "forks": 4319,
-      "estrelas_hoje": 2085
-    },
-    {
-      "posicao": 3,
-      "repo": "google/skills",
-      "link": "https://github.com/google/skills",
-      "descricao": "Agent Skills for Google products and technologies",
-      "linguagem": "Python",
-      "estrelas_total": 23630,
-      "forks": 1971,
-      "estrelas_hoje": 443
-    },
-    {
-      "posicao": 4,
-      "repo": "mattpocock/skills",
-      "link": "https://github.com/mattpocock/skills",
-      "descricao": "Skills for Real Engineers. Straight from my .agents directory.",
-      "linguagem": "Shell",
-      "estrelas_total": 318115,
-      "forks": 26626,
-      "estrelas_hoje": 1100
-    },
-    {
-      "posicao": 5,
       "repo": "anthropics/skills",
       "link": "https://github.com/anthropics/skills",
       "descricao": "Public repository for Agent Skills",
       "linguagem": "Python",
-      "estrelas_total": 189100,
-      "forks": 22292,
-      "estrelas_hoje": 390
+      "estrelas_total": 190129,
+      "forks": 22388,
+      "estrelas_hoje": 1052
     },
     {
-      "posicao": 6,
+      "posicao": 2,
       "repo": "meta/astryx",
       "link": "https://github.com/meta/astryx",
       "descricao": "An open source design system that's fully customizable and agent ready",
       "linguagem": "TypeScript",
-      "estrelas_total": 14963,
-      "forks": 1221,
-      "estrelas_hoje": 96
+      "estrelas_total": 18292,
+      "forks": 1421,
+      "estrelas_hoje": 3324
     },
     {
-      "posicao": 7,
-      "repo": "prometheus/prometheus",
-      "link": "https://github.com/prometheus/prometheus",
-      "descricao": "The Prometheus monitoring system and time series database.",
-      "linguagem": "Go",
-      "estrelas_total": 67538,
-      "forks": 11011,
-      "estrelas_hoje": 322
-    },
-    {
-      "posicao": 8,
+      "posicao": 3,
       "repo": "sherlock-project/sherlock",
       "link": "https://github.com/sherlock-project/sherlock",
       "descricao": "Hunt down social media accounts by username across social networks",
       "linguagem": "Python",
-      "estrelas_total": 101619,
-      "forks": 12006,
-      "estrelas_hoje": 1766
+      "estrelas_total": 105870,
+      "forks": 12292,
+      "estrelas_hoje": 4294
+    },
+    {
+      "posicao": 4,
+      "repo": "google-deepmind/mujoco",
+      "link": "https://github.com/google-deepmind/mujoco",
+      "descricao": "Multi-Joint dynamics with Contact. A general purpose physics simulator.",
+      "linguagem": "C++",
+      "estrelas_total": 16709,
+      "forks": 1970,
+      "estrelas_hoje": 579
+    },
+    {
+      "posicao": 5,
+      "repo": "anthropics/claude-quickstarts",
+      "link": "https://github.com/anthropics/claude-quickstarts",
+      "descricao": "A collection of projects designed to help developers quickly get started with building deployable applications using the Claude API",
+      "linguagem": "Python",
+      "estrelas_total": 19723,
+      "forks": 3293,
+      "estrelas_hoje": 560
+    },
+    {
+      "posicao": 6,
+      "repo": "garrytan/gbrain",
+      "link": "https://github.com/garrytan/gbrain",
+      "descricao": "Garry's Opinionated OpenClaw/Hermes Agent Brain",
+      "linguagem": "TypeScript",
+      "estrelas_total": 31848,
+      "forks": 4742,
+      "estrelas_hoje": 215
+    },
+    {
+      "posicao": 7,
+      "repo": "vercel-labs/agent-browser",
+      "link": "https://github.com/vercel-labs/agent-browser",
+      "descricao": "Browser automation CLI for AI agents",
+      "linguagem": "Rust",
+      "estrelas_total": 48107,
+      "forks": 3286,
+      "estrelas_hoje": 914
+    },
+    {
+      "posicao": 8,
+      "repo": "ruvnet/RuView",
+      "link": "https://github.com/ruvnet/RuView",
+      "descricao": "π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a single pixel of video.",
+      "linguagem": "Rust",
+      "estrelas_total": 103137,
+      "forks": 13388,
+      "estrelas_hoje": 203
     },
     {
       "posicao": 9,
+      "repo": "ZhuLinsen/daily_stock_analysis",
+      "link": "https://github.com/ZhuLinsen/daily_stock_analysis",
+      "descricao": "LLM 驱动的多市场股票智能分析系统：多源行情、实时新闻、决策看板与自动推送，支持零成本定时运行。 LLM-powered multi-market stock analysis system with multi-source market data, real-time news, decision dashboard, automated notifications, and cost-free scheduled runs.",
+      "linguagem": "Python",
+      "estrelas_total": 68440,
+      "forks": 56300,
+      "estrelas_hoje": 505
+    },
+    {
+      "posicao": 10,
+      "repo": "homeassistant-ai/ha-mcp",
+      "link": "https://github.com/homeassistant-ai/ha-mcp",
+      "descricao": "Configure and automate Home Assistant with Claude, ChatGPT, and other AI assistants.",
+      "linguagem": "Python",
+      "estrelas_total": 5541,
+      "forks": 272,
+      "estrelas_hoje": 31
+    },
+    {
+      "posicao": 11,
       "repo": "milind-soni/OpenMausBot",
       "link": "https://github.com/milind-soni/OpenMausBot",
       "descricao": "Open-source Grok Bot alternative with a virtual machine that bots can use",
       "linguagem": "TypeScript",
-      "estrelas_total": 17576,
-      "forks": 2460,
-      "estrelas_hoje": 1955
-    },
-    {
-      "posicao": 10,
-      "repo": "astral-sh/ruff",
-      "link": "https://github.com/astral-sh/ruff",
-      "descricao": "An extremely fast Python linter and code formatter, written in Rust.",
-      "linguagem": "Rust",
-      "estrelas_total": 51079,
-      "forks": 2636,
-      "estrelas_hoje": 350
-    },
-    {
-      "posicao": 11,
-      "repo": "tailwindlabs/tailwindcss",
-      "link": "https://github.com/tailwindlabs/tailwindcss",
-      "descricao": "A utility-first CSS framework for rapid UI development.",
-      "linguagem": "TypeScript",
-      "estrelas_total": 98640,
-      "forks": 7119,
-      "estrelas_hoje": 122
-    },
-    {
-      "posicao": 12,
-      "repo": "mbillow/localthings",
-      "link": "https://github.com/mbillow/localthings",
-      "descricao": "Control your Samsung appliances from Home Assistant over your home network, with no cloud account.",
-      "linguagem": "Python",
-      "estrelas_total": 1130,
-      "forks": 115,
-      "estrelas_hoje": 186
-    },
-    {
-      "posicao": 13,
-      "repo": "zed-industries/zed",
-      "link": "https://github.com/zed-industries/zed",
-      "descricao": "Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.",
-      "linguagem": "Rust",
-      "estrelas_total": 94418,
-      "forks": 11566,
-      "estrelas_hoje": 1114
-    },
-    {
-      "posicao": 14,
-      "repo": "ranxianglei/billion-context",
-      "link": "https://github.com/ranxianglei/billion-context",
-      "descricao": "A context-compression plugin for month-long single sessions (billions of tokens) ,small context windows (a 100K context is enough) and token savings (5x fewer tokens) .上下文压缩插件，月级长会话会话， 兼顾小窗口(100k上下文足矣)省token(省5倍token) . billion-context is all you need",
-      "linguagem": "TypeScript",
-      "estrelas_total": 4822,
-      "forks": 388,
-      "estrelas_hoje": 191
-    },
-    {
-      "posicao": 15,
-      "repo": "dsx-ai-factory/nvke",
-      "link": "https://github.com/dsx-ai-factory/nvke",
-      "descricao": "NVIDIA Kubernetes Engine (NVKE). A management plane for GPU Kubernetes on bare metal.",
-      "linguagem": "Go",
-      "estrelas_total": 676,
-      "forks": 102,
-      "estrelas_hoje": 123
+      "estrelas_total": 19153,
+      "forks": 2640,
+      "estrelas_hoje": 1589
     }
   ]
 }
