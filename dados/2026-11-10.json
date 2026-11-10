@@ -1,0 +1,128 @@
+{
+  "fonte": "https://github.com/trending?since=daily",
+  "coletado_em_brt": "2026-11-10T08:25-03:00",
+  "data": "2026-11-10",
+  "total": 12,
+  "repos": [
+    {
+      "posicao": 1,
+      "repo": "meta/astryx",
+      "link": "https://github.com/meta/astryx",
+      "descricao": "An open source design system that's fully customizable and agent ready",
+      "linguagem": "TypeScript",
+      "estrelas_total": 21319,
+      "forks": 1658,
+      "estrelas_hoje": 3111
+    },
+    {
+      "posicao": 2,
+      "repo": "anthropics/skills",
+      "link": "https://github.com/anthropics/skills",
+      "descricao": "Public repository for Agent Skills",
+      "linguagem": "Python",
+      "estrelas_total": 191735,
+      "forks": 22529,
+      "estrelas_hoje": 1676
+    },
+    {
+      "posicao": 3,
+      "repo": "addyosmani/agent-skills",
+      "link": "https://github.com/addyosmani/agent-skills",
+      "descricao": "Production-grade engineering skills for AI coding agents.",
+      "linguagem": "JavaScript",
+      "estrelas_total": 114767,
+      "forks": 11994,
+      "estrelas_hoje": 465
+    },
+    {
+      "posicao": 4,
+      "repo": "anthropics/claude-quickstarts",
+      "link": "https://github.com/anthropics/claude-quickstarts",
+      "descricao": "A collection of projects designed to help developers quickly get started with building deployable applications using the Claude API",
+      "linguagem": "Python",
+      "estrelas_total": 20242,
+      "forks": 3383,
+      "estrelas_hoje": 530
+    },
+    {
+      "posicao": 5,
+      "repo": "google-deepmind/mujoco",
+      "link": "https://github.com/google-deepmind/mujoco",
+      "descricao": "Multi-Joint dynamics with Contact. A general purpose physics simulator.",
+      "linguagem": "C++",
+      "estrelas_total": 17152,
+      "forks": 2068,
+      "estrelas_hoje": 453
+    },
+    {
+      "posicao": 6,
+      "repo": "we-promise/sure",
+      "link": "https://github.com/we-promise/sure",
+      "descricao": "The personal finance app for everyone (by everyone)",
+      "linguagem": "Ruby",
+      "estrelas_total": 11388,
+      "forks": 797,
+      "estrelas_hoje": 184
+    },
+    {
+      "posicao": 7,
+      "repo": "homeassistant-ai/ha-mcp",
+      "link": "https://github.com/homeassistant-ai/ha-mcp",
+      "descricao": "Configure and automate Home Assistant with Claude, ChatGPT, and other AI assistants.",
+      "linguagem": "Python",
+      "estrelas_total": 6314,
+      "forks": 348,
+      "estrelas_hoje": 792
+    },
+    {
+      "posicao": 8,
+      "repo": "vercel-labs/agent-browser",
+      "link": "https://github.com/vercel-labs/agent-browser",
+      "descricao": "Browser automation CLI for AI agents",
+      "linguagem": "Rust",
+      "estrelas_total": 48867,
+      "forks": 3386,
+      "estrelas_hoje": 775
+    },
+    {
+      "posicao": 9,
+      "repo": "sherlock-project/sherlock",
+      "link": "https://github.com/sherlock-project/sherlock",
+      "descricao": "Hunt down social media accounts by username across social networks",
+      "linguagem": "Python",
+      "estrelas_total": 108151,
+      "forks": 12530,
+      "estrelas_hoje": 2387
+    },
+    {
+      "posicao": 10,
+      "repo": "tokio-rs/topcoat",
+      "link": "https://github.com/tokio-rs/topcoat",
+      "descricao": "A batteries-included framework for building web apps",
+      "linguagem": "Rust",
+      "estrelas_total": 6580,
+      "forks": 235,
+      "estrelas_hoje": 192
+    },
+    {
+      "posicao": 11,
+      "repo": "ranxianglei/billion-context",
+      "link": "https://github.com/ranxianglei/billion-context",
+      "descricao": "A context-compression plugin for month-long single sessions (billions of tokens) ,small context windows (a 100K context is enough) and token savings (5x fewer tokens) .上下文压缩插件，月级长会话会话， 兼顾小窗口(100k上下文足矣)省token(省5倍token) . billion-context is all you need",
+      "linguagem": "TypeScript",
+      "estrelas_total": 5937,
+      "forks": 449,
+      "estrelas_hoje": 374
+    },
+    {
+      "posicao": 12,
+      "repo": "mattpocock/skills",
+      "link": "https://github.com/mattpocock/skills",
+      "descricao": "Skills for Real Engineers. Straight from my .agents directory.",
+      "linguagem": "Shell",
+      "estrelas_total": 320282,
+      "forks": 26818,
+      "estrelas_hoje": 1223
+    }
+  ]
+}
