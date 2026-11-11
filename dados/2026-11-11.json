@@ -1,0 +1,108 @@
+{
+  "fonte": "https://github.com/trending?since=daily",
+  "coletado_em_brt": "2026-11-11T08:14-03:00",
+  "data": "2026-11-11",
+  "total": 10,
+  "repos": [
+    {
+      "posicao": 1,
+      "repo": "meta/astryx",
+      "link": "https://github.com/meta/astryx",
+      "descricao": "An open source design system that's fully customizable and agent ready",
+      "linguagem": "TypeScript",
+      "estrelas_total": 24087,
+      "forks": 1881,
+      "estrelas_hoje": 2842
+    },
+    {
+      "posicao": 2,
+      "repo": "ZhuLinsen/daily_stock_analysis",
+      "link": "https://github.com/ZhuLinsen/daily_stock_analysis",
+      "descricao": "LLM 驱动的多市场股票智能分析系统：多源行情、实时新闻、决策看板与自动推送，支持零成本定时运行。 LLM-powered multi-market stock analysis system with multi-source market data, real-time news, decision dashboard, automated notifications, and cost-free scheduled runs.",
+      "linguagem": "Python",
+      "estrelas_total": 69694,
+      "forks": 56741,
+      "estrelas_hoje": 960
+    },
+    {
+      "posicao": 3,
+      "repo": "GoogleChrome/modern-web-guidance-src",
+      "link": "https://github.com/GoogleChrome/modern-web-guidance-src",
+      "descricao": "",
+      "linguagem": "TypeScript",
+      "estrelas_total": 1393,
+      "forks": 126,
+      "estrelas_hoje": 133
+    },
+    {
+      "posicao": 4,
+      "repo": "shadcn/improve",
+      "link": "https://github.com/shadcn/improve",
+      "descricao": "Use your most capable model to audit your codebase and write plans for cheaper models to execute.",
+      "linguagem": null,
+      "estrelas_total": 10365,
+      "forks": 427,
+      "estrelas_hoje": 333
+    },
+    {
+      "posicao": 5,
+      "repo": "addyosmani/agent-skills",
+      "link": "https://github.com/addyosmani/agent-skills",
+      "descricao": "Production-grade engineering skills for AI coding agents.",
+      "linguagem": "JavaScript",
+      "estrelas_total": 115525,
+      "forks": 12118,
+      "estrelas_hoje": 788
+    },
+    {
+      "posicao": 6,
+      "repo": "vercel-labs/agent-browser",
+      "link": "https://github.com/vercel-labs/agent-browser",
+      "descricao": "Browser automation CLI for AI agents",
+      "linguagem": "Rust",
+      "estrelas_total": 49561,
+      "forks": 3470,
+      "estrelas_hoje": 712
+    },
+    {
+      "posicao": 7,
+      "repo": "we-promise/sure",
+      "link": "https://github.com/we-promise/sure",
+      "descricao": "The personal finance app for everyone (by everyone)",
+      "linguagem": "Ruby",
+      "estrelas_total": 12450,
+      "forks": 922,
+      "estrelas_hoje": 1079
+    },
+    {
+      "posicao": 8,
+      "repo": "homeassistant-ai/ha-mcp",
+      "link": "https://github.com/homeassistant-ai/ha-mcp",
+      "descricao": "Configure and automate Home Assistant with Claude, ChatGPT, and other AI assistants.",
+      "linguagem": "Python",
+      "estrelas_total": 6946,
+      "forks": 442,
+      "estrelas_hoje": 640
+    },
+    {
+      "posicao": 9,
+      "repo": "openai/codex-security",
+      "link": "https://github.com/openai/codex-security",
+      "descricao": "OpenAI's Codex Security CLI and TypeScript SDK for finding, validating, and fixing security vulnerabilities. npm: https://www.npmjs.com/package/@openai/codex-security",
+      "linguagem": "TypeScript",
+      "estrelas_total": 11384,
+      "forks": 914,
+      "estrelas_hoje": 20
+    },
+    {
+      "posicao": 10,
+      "repo": "TheAlgorithms/Java",
+      "link": "https://github.com/TheAlgorithms/Java",
+      "descricao": "All Algorithms implemented in Java",
+      "linguagem": "Java",
+      "estrelas_total": 66845,
+      "forks": 21488,
+      "estrelas_hoje": 39
+    }
+  ]
+}
