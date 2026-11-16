@@ -1,158 +1,128 @@
 {
   "fonte": "https://github.com/trending?since=daily",
-  "coletado_em_brt": "2026-11-15T08:15-03:00",
-  "data": "2026-11-15",
-  "total": 15,
+  "coletado_em_brt": "2026-11-16T08:46-03:00",
+  "data": "2026-11-16",
+  "total": 12,
   "repos": [
     {
       "posicao": 1,
-      "repo": "backnotprop/plannotator",
-      "link": "https://github.com/backnotprop/plannotator",
-      "descricao": "The workspace to stay in the loop and on top of agents - shape, decide, plan, annotate, review code, share with team, and send all feedback to agents with one click.",
-      "linguagem": "TypeScript",
-      "estrelas_total": 11504,
-      "forks": 1016,
-      "estrelas_hoje": 860
-    },
-    {
-      "posicao": 2,
-      "repo": "GoogleChrome/modern-web-guidance-src",
-      "link": "https://github.com/GoogleChrome/modern-web-guidance-src",
-      "descricao": "Keep your coding agent up to date with the latest web best practices",
-      "linguagem": "TypeScript",
-      "estrelas_total": 6496,
-      "forks": 521,
-      "estrelas_hoje": 1220
-    },
-    {
-      "posicao": 3,
-      "repo": "tradermonty/claude-trading-skills",
-      "link": "https://github.com/tradermonty/claude-trading-skills",
-      "descricao": "Claude Code skills for equity investors and traders — market analysis, technical charting, economic calendars, screeners, and trading strategy development.",
-      "linguagem": "Python",
-      "estrelas_total": 5106,
-      "forks": 1097,
-      "estrelas_hoje": 707
-    },
-    {
-      "posicao": 4,
-      "repo": "ChromeDevTools/chrome-devtools-mcp",
-      "link": "https://github.com/ChromeDevTools/chrome-devtools-mcp",
-      "descricao": "Chrome DevTools for coding agents",
-      "linguagem": "TypeScript",
-      "estrelas_total": 56561,
-      "forks": 4789,
-      "estrelas_hoje": 718
-    },
-    {
-      "posicao": 5,
-      "repo": "alibaba/open-code-review",
-      "link": "https://github.com/alibaba/open-code-review",
-      "descricao": "Secure, fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible.",
-      "linguagem": "Go",
-      "estrelas_total": 51672,
-      "forks": 4023,
-      "estrelas_hoje": 688
-    },
-    {
-      "posicao": 6,
-      "repo": "QwenLM/qwen-code",
-      "link": "https://github.com/QwenLM/qwen-code",
-      "descricao": "An open-source AI coding agent that lives in your terminal.",
-      "linguagem": "TypeScript",
-      "estrelas_total": 30476,
-      "forks": 3530,
-      "estrelas_hoje": 64
-    },
-    {
-      "posicao": 7,
       "repo": "dream-num/univer",
       "link": "https://github.com/dream-num/univer",
       "descricao": "Build your own AI office with Univer Office SDK. Bring editing, calculation, collaboration, and file processing into your product for people and AI agents. Built on an extensible open-source core.",
       "linguagem": "TypeScript",
-      "estrelas_total": 25186,
-      "forks": 2307,
-      "estrelas_hoje": 495
+      "estrelas_total": 27211,
+      "forks": 2467,
+      "estrelas_hoje": 1878
     },
     {
-      "posicao": 8,
+      "posicao": 2,
       "repo": "ag-ui-protocol/ag-ui",
       "link": "https://github.com/ag-ui-protocol/ag-ui",
       "descricao": "AG-UI: the Agent-User Interaction Protocol. Bring Agents into Frontend Applications.",
       "linguagem": "TypeScript",
-      "estrelas_total": 17528,
-      "forks": 1755,
-      "estrelas_hoje": 9
+      "estrelas_total": 18327,
+      "forks": 1889,
+      "estrelas_hoje": 790
     },
     {
-      "posicao": 9,
-      "repo": "ashhart/TensorFold",
-      "link": "https://github.com/ashhart/TensorFold",
-      "descricao": "LLM Inference Engine for Metal, CUDA and Vulkan.",
-      "linguagem": "Zig",
-      "estrelas_total": 2222,
-      "forks": 520,
-      "estrelas_hoje": 37
+      "posicao": 3,
+      "repo": "google-labs-code/stitch-skills",
+      "link": "https://github.com/google-labs-code/stitch-skills",
+      "descricao": "A library of Agent Skills designed to work with the Stitch MCP server. Each skill follows the Agent Skills open standard, for compatibility with coding agents such as Antigravity, Gemini CLI, Claude Code, Cursor.",
+      "linguagem": "TypeScript",
+      "estrelas_total": 9561,
+      "forks": 1196,
+      "estrelas_hoje": 247
     },
     {
-      "posicao": 10,
-      "repo": "JuliusBrussee/caveman",
-      "link": "https://github.com/JuliusBrussee/caveman",
-      "descricao": "🪨 why use many token when few token do trick. Viral skill + proxy for coding agents that cuts 65% of tokens by talking like a caveman.",
+      "posicao": 4,
+      "repo": "backnotprop/plannotator",
+      "link": "https://github.com/backnotprop/plannotator",
+      "descricao": "The workspace to stay in the loop and on top of agents - shape, decide, plan, annotate, review code, share with team, and send all feedback to agents with one click.",
+      "linguagem": "TypeScript",
+      "estrelas_total": 12191,
+      "forks": 1147,
+      "estrelas_hoje": 689
+    },
+    {
+      "posicao": 5,
+      "repo": "ChromeDevTools/chrome-devtools-mcp",
+      "link": "https://github.com/ChromeDevTools/chrome-devtools-mcp",
+      "descricao": "Chrome DevTools for coding agents",
+      "linguagem": "TypeScript",
+      "estrelas_total": 57390,
+      "forks": 4837,
+      "estrelas_hoje": 837
+    },
+    {
+      "posicao": 6,
+      "repo": "alibaba/open-code-review",
+      "link": "https://github.com/alibaba/open-code-review",
+      "descricao": "Secure, fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible.",
       "linguagem": "Go",
-      "estrelas_total": 120282,
-      "forks": 7011,
-      "estrelas_hoje": 227
+      "estrelas_total": 52618,
+      "forks": 4226,
+      "estrelas_hoje": 946
     },
     {
-      "posicao": 11,
-      "repo": "louislam/uptime-kuma",
-      "link": "https://github.com/louislam/uptime-kuma",
-      "descricao": "A fancy self-hosted monitoring tool",
-      "linguagem": "JavaScript",
-      "estrelas_total": 94369,
-      "forks": 8840,
-      "estrelas_hoje": 352
-    },
-    {
-      "posicao": 12,
-      "repo": "we-promise/sure",
-      "link": "https://github.com/we-promise/sure",
-      "descricao": "The personal finance app for everyone (by everyone)",
-      "linguagem": "Ruby",
-      "estrelas_total": 15500,
-      "forks": 1363,
-      "estrelas_hoje": 520
-    },
-    {
-      "posicao": 13,
+      "posicao": 7,
       "repo": "Tencent/LoopForge",
       "link": "https://github.com/Tencent/LoopForge",
       "descricao": "Self-hosted workflows for coding-agent delivery. Orchestrate CodeBuddy, Codex and Claude Code with scripts and human approval gates. Includes Local workflows for coding assistants.",
       "linguagem": "Go",
-      "estrelas_total": 1113,
-      "forks": 244,
-      "estrelas_hoje": 33
+      "estrelas_total": 2128,
+      "forks": 331,
+      "estrelas_hoje": 1016
     },
     {
-      "posicao": 14,
-      "repo": "Likely7/Veyra-NRVideo",
-      "link": "https://github.com/Likely7/Veyra-NRVideo",
-      "descricao": "Bring PS5 GTA6 to 120FPS with DLSS 5. An advanced Windows video player and capture enhancement tool featuring real-time preview for videos, images, and capture card sources. Combine AI-powered Super Resolution, DLSS5 image enhancement, and Frame Generation to deliver a next-generation visual experience.",
+      "posicao": 8,
+      "repo": "ggml-org/ggml",
+      "link": "https://github.com/ggml-org/ggml",
+      "descricao": "Tensor library for machine learning",
       "linguagem": "C++",
-      "estrelas_total": 2542,
-      "forks": 207,
-      "estrelas_hoje": 731
+      "estrelas_total": 16060,
+      "forks": 2068,
+      "estrelas_hoje": 43
     },
     {
-      "posicao": 15,
-      "repo": "martin-olivier/airgorah",
-      "link": "https://github.com/martin-olivier/airgorah",
-      "descricao": "A WiFi security auditing software",
-      "linguagem": "Rust",
-      "estrelas_total": 6121,
-      "forks": 1051,
-      "estrelas_hoje": 270
+      "posicao": 9,
+      "repo": "elementalsouls/Claude-BugHunter",
+      "link": "https://github.com/elementalsouls/Claude-BugHunter",
+      "descricao": "A Claude Code skill bundle for bug hunting and external red-team work - 82 skills, 15 slash commands, 681 disclosed-report patterns curated across 24 core vulnerability classes, plus enterprise identity + infrastructure attack matrices.",
+      "linguagem": "Python",
+      "estrelas_total": 7010,
+      "forks": 1077,
+      "estrelas_hoje": 98
+    },
+    {
+      "posicao": 10,
+      "repo": "GoogleChrome/modern-web-guidance-src",
+      "link": "https://github.com/GoogleChrome/modern-web-guidance-src",
+      "descricao": "Keep your coding agent up to date with the latest web best practices",
+      "linguagem": "TypeScript",
+      "estrelas_total": 7696,
+      "forks": 682,
+      "estrelas_hoje": 1200
+    },
+    {
+      "posicao": 11,
+      "repo": "tradermonty/claude-trading-skills",
+      "link": "https://github.com/tradermonty/claude-trading-skills",
+      "descricao": "Claude Code skills for equity investors and traders — market analysis, technical charting, economic calendars, screeners, and trading strategy development.",
+      "linguagem": "Python",
+      "estrelas_total": 5955,
+      "forks": 1254,
+      "estrelas_hoje": 841
+    },
+    {
+      "posicao": 12,
+      "repo": "NVIDIA/SkillEvaluator",
+      "link": "https://github.com/NVIDIA/SkillEvaluator",
+      "descricao": "Multi-tier framework for evaluating AI agent skills with quality gates, semantic overlap detection, synthetic evaluation dataset generation, and live agent evaluation that measures how skills affect agent behavior.",
+      "linguagem": "Python",
+      "estrelas_total": 2189,
+      "forks": 292,
+      "estrelas_hoje": 122
     }
   ]
 }
