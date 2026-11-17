@@ -1,128 +1,158 @@
 {
   "fonte": "https://github.com/trending?since=daily",
-  "coletado_em_brt": "2026-11-16T08:46-03:00",
-  "data": "2026-11-16",
-  "total": 12,
+  "coletado_em_brt": "2026-11-17T09:07-03:00",
+  "data": "2026-11-17",
+  "total": 15,
   "repos": [
     {
       "posicao": 1,
-      "repo": "dream-num/univer",
-      "link": "https://github.com/dream-num/univer",
-      "descricao": "Build your own AI office with Univer Office SDK. Bring editing, calculation, collaboration, and file processing into your product for people and AI agents. Built on an extensible open-source core.",
-      "linguagem": "TypeScript",
-      "estrelas_total": 27211,
-      "forks": 2467,
-      "estrelas_hoje": 1878
-    },
-    {
-      "posicao": 2,
-      "repo": "ag-ui-protocol/ag-ui",
-      "link": "https://github.com/ag-ui-protocol/ag-ui",
-      "descricao": "AG-UI: the Agent-User Interaction Protocol. Bring Agents into Frontend Applications.",
-      "linguagem": "TypeScript",
-      "estrelas_total": 18327,
-      "forks": 1889,
-      "estrelas_hoje": 790
-    },
-    {
-      "posicao": 3,
-      "repo": "google-labs-code/stitch-skills",
-      "link": "https://github.com/google-labs-code/stitch-skills",
-      "descricao": "A library of Agent Skills designed to work with the Stitch MCP server. Each skill follows the Agent Skills open standard, for compatibility with coding agents such as Antigravity, Gemini CLI, Claude Code, Cursor.",
-      "linguagem": "TypeScript",
-      "estrelas_total": 9561,
-      "forks": 1196,
-      "estrelas_hoje": 247
-    },
-    {
-      "posicao": 4,
-      "repo": "backnotprop/plannotator",
-      "link": "https://github.com/backnotprop/plannotator",
-      "descricao": "The workspace to stay in the loop and on top of agents - shape, decide, plan, annotate, review code, share with team, and send all feedback to agents with one click.",
-      "linguagem": "TypeScript",
-      "estrelas_total": 12191,
-      "forks": 1147,
-      "estrelas_hoje": 689
-    },
-    {
-      "posicao": 5,
-      "repo": "ChromeDevTools/chrome-devtools-mcp",
-      "link": "https://github.com/ChromeDevTools/chrome-devtools-mcp",
-      "descricao": "Chrome DevTools for coding agents",
-      "linguagem": "TypeScript",
-      "estrelas_total": 57390,
-      "forks": 4837,
-      "estrelas_hoje": 837
-    },
-    {
-      "posicao": 6,
-      "repo": "alibaba/open-code-review",
-      "link": "https://github.com/alibaba/open-code-review",
-      "descricao": "Secure, fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible.",
-      "linguagem": "Go",
-      "estrelas_total": 52618,
-      "forks": 4226,
-      "estrelas_hoje": 946
-    },
-    {
-      "posicao": 7,
-      "repo": "Tencent/LoopForge",
-      "link": "https://github.com/Tencent/LoopForge",
-      "descricao": "Self-hosted workflows for coding-agent delivery. Orchestrate CodeBuddy, Codex and Claude Code with scripts and human approval gates. Includes Local workflows for coding assistants.",
-      "linguagem": "Go",
-      "estrelas_total": 2128,
-      "forks": 331,
-      "estrelas_hoje": 1016
-    },
-    {
-      "posicao": 8,
-      "repo": "ggml-org/ggml",
-      "link": "https://github.com/ggml-org/ggml",
-      "descricao": "Tensor library for machine learning",
-      "linguagem": "C++",
-      "estrelas_total": 16060,
-      "forks": 2068,
-      "estrelas_hoje": 43
-    },
-    {
-      "posicao": 9,
       "repo": "elementalsouls/Claude-BugHunter",
       "link": "https://github.com/elementalsouls/Claude-BugHunter",
       "descricao": "A Claude Code skill bundle for bug hunting and external red-team work - 82 skills, 15 slash commands, 681 disclosed-report patterns curated across 24 core vulnerability classes, plus enterprise identity + infrastructure attack matrices.",
       "linguagem": "Python",
-      "estrelas_total": 7010,
-      "forks": 1077,
-      "estrelas_hoje": 98
+      "estrelas_total": 8103,
+      "forks": 1258,
+      "estrelas_hoje": 1007
+    },
+    {
+      "posicao": 2,
+      "repo": "mvanhorn/last30days-skill",
+      "link": "https://github.com/mvanhorn/last30days-skill",
+      "descricao": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary",
+      "linguagem": "Python",
+      "estrelas_total": 68549,
+      "forks": 6108,
+      "estrelas_hoje": 135
+    },
+    {
+      "posicao": 3,
+      "repo": "alibaba/open-code-review",
+      "link": "https://github.com/alibaba/open-code-review",
+      "descricao": "Secure, fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible.",
+      "linguagem": "Go",
+      "estrelas_total": 53368,
+      "forks": 4385,
+      "estrelas_hoje": 764
+    },
+    {
+      "posicao": 4,
+      "repo": "Tencent/LoopForge",
+      "link": "https://github.com/Tencent/LoopForge",
+      "descricao": "Self-hosted workflows for coding-agent delivery. Orchestrate CodeBuddy, Codex and Claude Code with scripts and human approval gates. Includes Local workflows for coding assistants.",
+      "linguagem": "Go",
+      "estrelas_total": 2768,
+      "forks": 403,
+      "estrelas_hoje": 590
+    },
+    {
+      "posicao": 5,
+      "repo": "dream-num/univer",
+      "link": "https://github.com/dream-num/univer",
+      "descricao": "Build your own AI office with Univer Office SDK. Bring editing, calculation, collaboration, and file processing into your product for people and AI agents. Built on an extensible open-source core.",
+      "linguagem": "TypeScript",
+      "estrelas_total": 28652,
+      "forks": 2608,
+      "estrelas_hoje": 1776
+    },
+    {
+      "posicao": 6,
+      "repo": "getarcaneapp/arcane",
+      "link": "https://github.com/getarcaneapp/arcane",
+      "descricao": "Modern Docker Management, Designed for Everyone",
+      "linguagem": "Go",
+      "estrelas_total": 9047,
+      "forks": 481,
+      "estrelas_hoje": 46
+    },
+    {
+      "posicao": 7,
+      "repo": "google-labs-code/stitch-skills",
+      "link": "https://github.com/google-labs-code/stitch-skills",
+      "descricao": "A library of Agent Skills designed to work with the Stitch MCP server. Each skill follows the Agent Skills open standard, for compatibility with coding agents such as Antigravity, Gemini CLI, Claude Code, Cursor.",
+      "linguagem": "TypeScript",
+      "estrelas_total": 9919,
+      "forks": 1298,
+      "estrelas_hoje": 350
+    },
+    {
+      "posicao": 8,
+      "repo": "cursor/plugins",
+      "link": "https://github.com/cursor/plugins",
+      "descricao": "Cursor plugin specification and official plugins",
+      "linguagem": "TypeScript",
+      "estrelas_total": 16737,
+      "forks": 1798,
+      "estrelas_hoje": 196
+    },
+    {
+      "posicao": 9,
+      "repo": "obra/superpowers",
+      "link": "https://github.com/obra/superpowers",
+      "descricao": "An agentic skills framework & software development methodology that works.",
+      "linguagem": "Shell",
+      "estrelas_total": 318940,
+      "forks": 28432,
+      "estrelas_hoje": 1905
     },
     {
       "posicao": 10,
-      "repo": "GoogleChrome/modern-web-guidance-src",
-      "link": "https://github.com/GoogleChrome/modern-web-guidance-src",
-      "descricao": "Keep your coding agent up to date with the latest web best practices",
+      "repo": "ag-ui-protocol/ag-ui",
+      "link": "https://github.com/ag-ui-protocol/ag-ui",
+      "descricao": "AG-UI: the Agent-User Interaction Protocol. Bring Agents into Frontend Applications.",
       "linguagem": "TypeScript",
-      "estrelas_total": 7696,
-      "forks": 682,
-      "estrelas_hoje": 1200
+      "estrelas_total": 19759,
+      "forks": 2046,
+      "estrelas_hoje": 1444
     },
     {
       "posicao": 11,
-      "repo": "tradermonty/claude-trading-skills",
-      "link": "https://github.com/tradermonty/claude-trading-skills",
-      "descricao": "Claude Code skills for equity investors and traders — market analysis, technical charting, economic calendars, screeners, and trading strategy development.",
-      "linguagem": "Python",
-      "estrelas_total": 5955,
-      "forks": 1254,
-      "estrelas_hoje": 841
+      "repo": "backnotprop/plannotator",
+      "link": "https://github.com/backnotprop/plannotator",
+      "descricao": "The workspace to stay in the loop and on top of agents - shape, decide, plan, annotate, review code, share with team, and send all feedback to agents with one click.",
+      "linguagem": "TypeScript",
+      "estrelas_total": 12883,
+      "forks": 1293,
+      "estrelas_hoje": 691
     },
     {
       "posicao": 12,
-      "repo": "NVIDIA/SkillEvaluator",
-      "link": "https://github.com/NVIDIA/SkillEvaluator",
-      "descricao": "Multi-tier framework for evaluating AI agent skills with quality gates, semantic overlap detection, synthetic evaluation dataset generation, and live agent evaluation that measures how skills affect agent behavior.",
+      "repo": "sveltejs/svelte",
+      "link": "https://github.com/sveltejs/svelte",
+      "descricao": "web development for the rest of us",
+      "linguagem": "JavaScript",
+      "estrelas_total": 89210,
+      "forks": 6153,
+      "estrelas_hoje": 115
+    },
+    {
+      "posicao": 13,
+      "repo": "affaan-m/ECC",
+      "link": "https://github.com/affaan-m/ECC",
+      "descricao": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+      "linguagem": "JavaScript",
+      "estrelas_total": 304981,
+      "forks": 44917,
+      "estrelas_hoje": 718
+    },
+    {
+      "posicao": 14,
+      "repo": "jingyaogong/minimind",
+      "link": "https://github.com/jingyaogong/minimind",
+      "descricao": "🧠 Train a 64M-parameter LLM from scratch in just 2h!",
       "linguagem": "Python",
-      "estrelas_total": 2189,
-      "forks": 292,
-      "estrelas_hoje": 122
+      "estrelas_total": 65649,
+      "forks": 8617,
+      "estrelas_hoje": 188
+    },
+    {
+      "posicao": 15,
+      "repo": "google-research/paper-orchestra",
+      "link": "https://github.com/google-research/paper-orchestra",
+      "descricao": "PaperOrchestra is a multi-agent framework for automated AI research paper writing.",
+      "linguagem": "Python",
+      "estrelas_total": 2128,
+      "forks": 326,
+      "estrelas_hoje": 313
     }
   ]
 }
