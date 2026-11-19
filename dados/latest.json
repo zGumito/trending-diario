@@ -1,98 +1,98 @@
 {
   "fonte": "https://github.com/trending?since=daily",
-  "coletado_em_brt": "2026-11-18T08:57-03:00",
-  "data": "2026-11-18",
-  "total": 20,
+  "coletado_em_brt": "2026-11-19T08:54-03:00",
+  "data": "2026-11-19",
+  "total": 15,
   "repos": [
     {
       "posicao": 1,
-      "repo": "elementalsouls/Claude-BugHunter",
-      "link": "https://github.com/elementalsouls/Claude-BugHunter",
-      "descricao": "A Claude Code skill bundle for bug hunting and external red-team work - 82 skills, 15 slash commands, 681 disclosed-report patterns curated across 24 core vulnerability classes, plus enterprise identity + infrastructure attack matrices.",
-      "linguagem": "Python",
-      "estrelas_total": 10351,
-      "forks": 1445,
-      "estrelas_hoje": 2322
+      "repo": "obra/superpowers",
+      "link": "https://github.com/obra/superpowers",
+      "descricao": "An agentic skills framework & software development methodology that works.",
+      "linguagem": "Shell",
+      "estrelas_total": 321647,
+      "forks": 28592,
+      "estrelas_hoje": 2029
     },
     {
       "posicao": 2,
-      "repo": "cursor/plugins",
-      "link": "https://github.com/cursor/plugins",
-      "descricao": "Cursor plugin specification and official plugins",
-      "linguagem": "TypeScript",
-      "estrelas_total": 17042,
-      "forks": 1858,
-      "estrelas_hoje": 315
-    },
-    {
-      "posicao": 3,
       "repo": "HKUDS/CLI-Anything",
       "link": "https://github.com/HKUDS/CLI-Anything",
       "descricao": "\"CLI-Anything: Making ALL Software Agent-Native\" -- CLI-Hub: https://clianything.cc/",
       "linguagem": "Python",
-      "estrelas_total": 59328,
-      "forks": 5368,
-      "estrelas_hoje": 384
+      "estrelas_total": 60201,
+      "forks": 5462,
+      "estrelas_hoje": 899
+    },
+    {
+      "posicao": 3,
+      "repo": "jingyaogong/minimind",
+      "link": "https://github.com/jingyaogong/minimind",
+      "descricao": "🧠 两小时从 0 训出你的 64M 大模型。Train your own 64M LLM from scratch in 2 hours.",
+      "linguagem": "Python",
+      "estrelas_total": 66611,
+      "forks": 8755,
+      "estrelas_hoje": 687
     },
     {
       "posicao": 4,
+      "repo": "cursor/plugins",
+      "link": "https://github.com/cursor/plugins",
+      "descricao": "Cursor plugin specification and official plugins",
+      "linguagem": "TypeScript",
+      "estrelas_total": 17411,
+      "forks": 1920,
+      "estrelas_hoje": 383
+    },
+    {
+      "posicao": 5,
+      "repo": "firecrawl/firecrawl",
+      "link": "https://github.com/firecrawl/firecrawl",
+      "descricao": "Knowledge infrastructure to make your agents smarter. Search, scrape and 550+ data providers through one API.",
+      "linguagem": "TypeScript",
+      "estrelas_total": 203533,
+      "forks": 10661,
+      "estrelas_hoje": 795
+    },
+    {
+      "posicao": 6,
+      "repo": "nginx/nginx",
+      "link": "https://github.com/nginx/nginx",
+      "descricao": "The official NGINX Open Source repository.",
+      "linguagem": "C",
+      "estrelas_total": 32219,
+      "forks": 8407,
+      "estrelas_hoje": 66
+    },
+    {
+      "posicao": 7,
+      "repo": "openvinotoolkit/openvino",
+      "link": "https://github.com/openvinotoolkit/openvino",
+      "descricao": "OpenVINO™ is an open source toolkit for optimizing and deploying AI inference",
+      "linguagem": "C++",
+      "estrelas_total": 11447,
+      "forks": 3610,
+      "estrelas_hoje": 246
+    },
+    {
+      "posicao": 8,
+      "repo": "cathrynlavery/diagram-design",
+      "link": "https://github.com/cathrynlavery/diagram-design",
+      "descricao": "Editorial diagram design for Claude Code, Codex, GitHub Copilot, Cursor, Factory Droid, Qoder, and Pi. 45 diagram types. Self-contained HTML + SVG. No shadows. No Mermaid slop.",
+      "linguagem": "HTML",
+      "estrelas_total": 68340,
+      "forks": 4598,
+      "estrelas_hoje": 332
+    },
+    {
+      "posicao": 9,
       "repo": "mvanhorn/last30days-skill",
       "link": "https://github.com/mvanhorn/last30days-skill",
       "descricao": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary",
       "linguagem": "Python",
-      "estrelas_total": 69564,
-      "forks": 6195,
-      "estrelas_hoje": 1062
-    },
-    {
-      "posicao": 5,
-      "repo": "getarcaneapp/arcane",
-      "link": "https://github.com/getarcaneapp/arcane",
-      "descricao": "Modern Docker Management, Designed for Everyone",
-      "linguagem": "Go",
-      "estrelas_total": 9579,
-      "forks": 531,
-      "estrelas_hoje": 547
-    },
-    {
-      "posicao": 6,
-      "repo": "NVIDIA/SkillEvaluator",
-      "link": "https://github.com/NVIDIA/SkillEvaluator",
-      "descricao": "Multi-tier framework for evaluating AI agent skills and plugins with quality gates, semantic overlap detection, synthetic evaluation dataset generation, and live agent evaluation that measures how skills affect agent behavior.",
-      "linguagem": "Python",
-      "estrelas_total": 3452,
-      "forks": 477,
-      "estrelas_hoje": 869
-    },
-    {
-      "posicao": 7,
-      "repo": "nvm-sh/nvm",
-      "link": "https://github.com/nvm-sh/nvm",
-      "descricao": "Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions.",
-      "linguagem": "Shell",
-      "estrelas_total": 96109,
-      "forks": 10763,
-      "estrelas_hoje": 199
-    },
-    {
-      "posicao": 8,
-      "repo": "astral-sh/uv",
-      "link": "https://github.com/astral-sh/uv",
-      "descricao": "An extremely fast Python package and project manager, written in Rust.",
-      "linguagem": "Rust",
-      "estrelas_total": 92116,
-      "forks": 3897,
-      "estrelas_hoje": 260
-    },
-    {
-      "posicao": 9,
-      "repo": "google-research/paper-orchestra",
-      "link": "https://github.com/google-research/paper-orchestra",
-      "descricao": "PaperOrchestra is a multi-agent framework for automated AI research paper writing.",
-      "linguagem": "Python",
-      "estrelas_total": 3637,
-      "forks": 465,
-      "estrelas_hoje": 1529
+      "estrelas_total": 70491,
+      "forks": 6276,
+      "estrelas_hoje": 952
     },
     {
       "posicao": 10,
@@ -100,109 +100,59 @@
       "link": "https://github.com/google-labs-code/stitch-skills",
       "descricao": "A library of Agent Skills designed to work with the Stitch MCP server. Each skill follows the Agent Skills open standard, for compatibility with coding agents such as Antigravity, Gemini CLI, Claude Code, Cursor.",
       "linguagem": "TypeScript",
-      "estrelas_total": 10274,
-      "forks": 1347,
-      "estrelas_hoje": 369
+      "estrelas_total": 10561,
+      "forks": 1376,
+      "estrelas_hoje": 303
     },
     {
       "posicao": 11,
-      "repo": "sveltejs/svelte",
-      "link": "https://github.com/sveltejs/svelte",
-      "descricao": "web development for the rest of us",
-      "linguagem": "JavaScript",
-      "estrelas_total": 89637,
-      "forks": 6199,
-      "estrelas_hoje": 694
+      "repo": "mjmirza/app-store-compliance",
+      "link": "https://github.com/mjmirza/app-store-compliance",
+      "descricao": "Avoid common App Store and Google Play rejections. Open playbook and pre-submission guard with 117 documented rejection patterns and fixes, privacy manifest and Data safety checks, 95 tracked deadlines (EU AI Act, DSA, COPPA, age laws), and a skill for AI coding agents.",
+      "linguagem": "Shell",
+      "estrelas_total": 1471,
+      "forks": 110,
+      "estrelas_hoje": 542
     },
     {
       "posicao": 12,
-      "repo": "jquery/jquery",
-      "link": "https://github.com/jquery/jquery",
-      "descricao": "jQuery JavaScript Library",
-      "linguagem": "JavaScript",
-      "estrelas_total": 59971,
-      "forks": 20697,
-      "estrelas_hoje": 268
+      "repo": "Tracer-Cloud/opensre",
+      "link": "https://github.com/Tracer-Cloud/opensre",
+      "descricao": "The open-source agent for CI/CD reliability.",
+      "linguagem": "Python",
+      "estrelas_total": 12886,
+      "forks": 1891,
+      "estrelas_hoje": 25
     },
     {
       "posicao": 13,
-      "repo": "appwrite/appwrite",
-      "link": "https://github.com/appwrite/appwrite",
-      "descricao": "The open-source cloud for agents & devs. Including Auth, Databases, Storage, Functions, Messaging, Hosting, Realtime, WAF and more",
+      "repo": "toeverything/AFFiNE",
+      "link": "https://github.com/toeverything/AFFiNE",
+      "descricao": "There can be more than Notion and Miro. AFFiNE(pronounced [ə‘fain]) is a next-gen knowledge base that brings planning, sorting and creating all together. Privacy first, open-source, customizable and ready to use.",
       "linguagem": "TypeScript",
-      "estrelas_total": 58120,
-      "forks": 5875,
-      "estrelas_hoje": 239
+      "estrelas_total": 74794,
+      "forks": 5542,
+      "estrelas_hoje": 170
     },
     {
       "posicao": 14,
-      "repo": "openvinotoolkit/openvino",
-      "link": "https://github.com/openvinotoolkit/openvino",
-      "descricao": "OpenVINO™ is an open source toolkit for optimizing and deploying AI inference",
-      "linguagem": "C++",
-      "estrelas_total": 11213,
-      "forks": 3574,
-      "estrelas_hoje": 18
+      "repo": "XiaoYouChR/Ghost-Downloader-3",
+      "link": "https://github.com/XiaoYouChR/Ghost-Downloader-3",
+      "descricao": "The only downloader you need. 下载器的集大成者。",
+      "linguagem": "Python",
+      "estrelas_total": 12263,
+      "forks": 774,
+      "estrelas_hoje": 432
     },
     {
       "posicao": 15,
-      "repo": "obra/superpowers",
-      "link": "https://github.com/obra/superpowers",
-      "descricao": "An agentic skills framework & software development methodology that works.",
-      "linguagem": "Shell",
-      "estrelas_total": 319683,
-      "forks": 28510,
-      "estrelas_hoje": 823
-    },
-    {
-      "posicao": 16,
-      "repo": "affaan-m/ECC",
-      "link": "https://github.com/affaan-m/ECC",
-      "descricao": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
-      "linguagem": "JavaScript",
-      "estrelas_total": 306031,
-      "forks": 45042,
-      "estrelas_hoje": 1109
-    },
-    {
-      "posicao": 17,
-      "repo": "DeanChensj/jiangshan-map",
-      "link": "https://github.com/DeanChensj/jiangshan-map",
-      "descricao": "江山时序 · 中国历史交互地图时间轴 (403 BCE – Present) | Interactive Historical Atlas of China across 18 dynasties, 198 territory snapshots, ancient-to-modern place genealogy & classical poetry routes",
-      "linguagem": "JavaScript",
-      "estrelas_total": 7768,
-      "forks": 938,
-      "estrelas_hoje": 991
-    },
-    {
-      "posicao": 18,
-      "repo": "n8n-io/n8n",
-      "link": "https://github.com/n8n-io/n8n",
-      "descricao": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.",
-      "linguagem": "TypeScript",
-      "estrelas_total": 210835,
-      "forks": 61544,
-      "estrelas_hoje": 315
-    },
-    {
-      "posicao": 19,
-      "repo": "solidjs/solid",
-      "link": "https://github.com/solidjs/solid",
-      "descricao": "A declarative, efficient, and flexible JavaScript library for building user interfaces.",
-      "linguagem": "TypeScript",
-      "estrelas_total": 36327,
-      "forks": 1153,
-      "estrelas_hoje": 37
-    },
-    {
-      "posicao": 20,
-      "repo": "punkpeye/awesome-mcp-servers",
-      "link": "https://github.com/punkpeye/awesome-mcp-servers",
-      "descricao": "A collection of MCP servers.",
-      "linguagem": null,
-      "estrelas_total": 97853,
-      "forks": 20272,
-      "estrelas_hoje": 52
+      "repo": "zhouxiaoka/autoclip",
+      "link": "https://github.com/zhouxiaoka/autoclip",
+      "descricao": "AutoClip｜一个链接，一键出片。开源 AI 视频剪辑桌面工具，将播客、访谈、课程等长视频自动剪成短视频，生成字幕、封面和发布文案，适配抖音、小红书、TikTok、Reels 与 YouTube Shorts。Open-source AI video clipping & content repurposing.",
+      "linguagem": "Python",
+      "estrelas_total": 10858,
+      "forks": 1916,
+      "estrelas_hoje": 110
     }
   ]
 }
