@@ -1,158 +1,168 @@
 {
   "fonte": "https://github.com/trending?since=daily",
-  "coletado_em_brt": "2026-11-19T08:54-03:00",
-  "data": "2026-11-19",
-  "total": 15,
+  "coletado_em_brt": "2026-11-20T08:55-03:00",
+  "data": "2026-11-20",
+  "total": 16,
   "repos": [
     {
       "posicao": 1,
+      "repo": "elementalsouls/Claude-BugHunter",
+      "link": "https://github.com/elementalsouls/Claude-BugHunter",
+      "descricao": "A Claude Code skill bundle for bug hunting and external red-team work - 82 skills, 15 slash commands, 681 disclosed-report patterns curated across 24 core vulnerability classes, plus enterprise identity + infrastructure attack matrices.",
+      "linguagem": "Python",
+      "estrelas_total": 13345,
+      "forks": 1640,
+      "estrelas_hoje": 1349
+    },
+    {
+      "posicao": 2,
       "repo": "obra/superpowers",
       "link": "https://github.com/obra/superpowers",
       "descricao": "An agentic skills framework & software development methodology that works.",
       "linguagem": "Shell",
-      "estrelas_total": 321647,
-      "forks": 28592,
-      "estrelas_hoje": 2029
+      "estrelas_total": 322481,
+      "forks": 28654,
+      "estrelas_hoje": 888
     },
     {
-      "posicao": 2,
+      "posicao": 3,
       "repo": "HKUDS/CLI-Anything",
       "link": "https://github.com/HKUDS/CLI-Anything",
       "descricao": "\"CLI-Anything: Making ALL Software Agent-Native\" -- CLI-Hub: https://clianything.cc/",
       "linguagem": "Python",
-      "estrelas_total": 60201,
-      "forks": 5462,
-      "estrelas_hoje": 899
+      "estrelas_total": 60963,
+      "forks": 5523,
+      "estrelas_hoje": 774
     },
     {
-      "posicao": 3,
+      "posicao": 4,
       "repo": "jingyaogong/minimind",
       "link": "https://github.com/jingyaogong/minimind",
       "descricao": "🧠 两小时从 0 训出你的 64M 大模型。Train your own 64M LLM from scratch in 2 hours.",
       "linguagem": "Python",
-      "estrelas_total": 66611,
-      "forks": 8755,
-      "estrelas_hoje": 687
+      "estrelas_total": 67452,
+      "forks": 8847,
+      "estrelas_hoje": 238
     },
     {
-      "posicao": 4,
+      "posicao": 5,
       "repo": "cursor/plugins",
       "link": "https://github.com/cursor/plugins",
       "descricao": "Cursor plugin specification and official plugins",
       "linguagem": "TypeScript",
-      "estrelas_total": 17411,
-      "forks": 1920,
-      "estrelas_hoje": 383
+      "estrelas_total": 17702,
+      "forks": 1950,
+      "estrelas_hoje": 292
     },
     {
-      "posicao": 5,
+      "posicao": 6,
       "repo": "firecrawl/firecrawl",
       "link": "https://github.com/firecrawl/firecrawl",
       "descricao": "Knowledge infrastructure to make your agents smarter. Search, scrape and 550+ data providers through one API.",
       "linguagem": "TypeScript",
-      "estrelas_total": 203533,
-      "forks": 10661,
-      "estrelas_hoje": 795
+      "estrelas_total": 204735,
+      "forks": 10731,
+      "estrelas_hoje": 825
     },
     {
-      "posicao": 6,
+      "posicao": 7,
       "repo": "nginx/nginx",
       "link": "https://github.com/nginx/nginx",
       "descricao": "The official NGINX Open Source repository.",
       "linguagem": "C",
-      "estrelas_total": 32219,
-      "forks": 8407,
-      "estrelas_hoje": 66
+      "estrelas_total": 32459,
+      "forks": 8426,
+      "estrelas_hoje": 73
     },
     {
-      "posicao": 7,
+      "posicao": 8,
       "repo": "openvinotoolkit/openvino",
       "link": "https://github.com/openvinotoolkit/openvino",
       "descricao": "OpenVINO™ is an open source toolkit for optimizing and deploying AI inference",
       "linguagem": "C++",
-      "estrelas_total": 11447,
-      "forks": 3610,
-      "estrelas_hoje": 246
+      "estrelas_total": 11660,
+      "forks": 3631,
+      "estrelas_hoje": 219
     },
     {
-      "posicao": 8,
+      "posicao": 9,
       "repo": "cathrynlavery/diagram-design",
       "link": "https://github.com/cathrynlavery/diagram-design",
       "descricao": "Editorial diagram design for Claude Code, Codex, GitHub Copilot, Cursor, Factory Droid, Qoder, and Pi. 45 diagram types. Self-contained HTML + SVG. No shadows. No Mermaid slop.",
       "linguagem": "HTML",
-      "estrelas_total": 68340,
-      "forks": 4598,
-      "estrelas_hoje": 332
+      "estrelas_total": 68970,
+      "forks": 4631,
+      "estrelas_hoje": 271
     },
     {
-      "posicao": 9,
+      "posicao": 10,
       "repo": "mvanhorn/last30days-skill",
       "link": "https://github.com/mvanhorn/last30days-skill",
       "descricao": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary",
       "linguagem": "Python",
-      "estrelas_total": 70491,
-      "forks": 6276,
-      "estrelas_hoje": 952
+      "estrelas_total": 71153,
+      "forks": 6336,
+      "estrelas_hoje": 685
     },
     {
-      "posicao": 10,
+      "posicao": 11,
       "repo": "google-labs-code/stitch-skills",
       "link": "https://github.com/google-labs-code/stitch-skills",
       "descricao": "A library of Agent Skills designed to work with the Stitch MCP server. Each skill follows the Agent Skills open standard, for compatibility with coding agents such as Antigravity, Gemini CLI, Claude Code, Cursor.",
       "linguagem": "TypeScript",
-      "estrelas_total": 10561,
-      "forks": 1376,
-      "estrelas_hoje": 303
+      "estrelas_total": 10873,
+      "forks": 1397,
+      "estrelas_hoje": 315
     },
     {
-      "posicao": 11,
+      "posicao": 12,
       "repo": "mjmirza/app-store-compliance",
       "link": "https://github.com/mjmirza/app-store-compliance",
       "descricao": "Avoid common App Store and Google Play rejections. Open playbook and pre-submission guard with 117 documented rejection patterns and fixes, privacy manifest and Data safety checks, 95 tracked deadlines (EU AI Act, DSA, COPPA, age laws), and a skill for AI coding agents.",
       "linguagem": "Shell",
-      "estrelas_total": 1471,
-      "forks": 110,
-      "estrelas_hoje": 542
+      "estrelas_total": 2343,
+      "forks": 150,
+      "estrelas_hoje": 377
     },
     {
-      "posicao": 12,
+      "posicao": 13,
       "repo": "Tracer-Cloud/opensre",
       "link": "https://github.com/Tracer-Cloud/opensre",
       "descricao": "The open-source agent for CI/CD reliability.",
       "linguagem": "Python",
-      "estrelas_total": 12886,
-      "forks": 1891,
-      "estrelas_hoje": 25
+      "estrelas_total": 13344,
+      "forks": 1914,
+      "estrelas_hoje": 38
     },
     {
-      "posicao": 13,
+      "posicao": 14,
       "repo": "toeverything/AFFiNE",
       "link": "https://github.com/toeverything/AFFiNE",
       "descricao": "There can be more than Notion and Miro. AFFiNE(pronounced [ə‘fain]) is a next-gen knowledge base that brings planning, sorting and creating all together. Privacy first, open-source, customizable and ready to use.",
       "linguagem": "TypeScript",
-      "estrelas_total": 74794,
-      "forks": 5542,
-      "estrelas_hoje": 170
+      "estrelas_total": 75460,
+      "forks": 5577,
+      "estrelas_hoje": 182
     },
     {
-      "posicao": 14,
+      "posicao": 15,
       "repo": "XiaoYouChR/Ghost-Downloader-3",
       "link": "https://github.com/XiaoYouChR/Ghost-Downloader-3",
       "descricao": "The only downloader you need. 下载器的集大成者。",
       "linguagem": "Python",
-      "estrelas_total": 12263,
-      "forks": 774,
-      "estrelas_hoje": 432
+      "estrelas_total": 13326,
+      "forks": 826,
+      "estrelas_hoje": 341
     },
     {
-      "posicao": 15,
+      "posicao": 16,
       "repo": "zhouxiaoka/autoclip",
       "link": "https://github.com/zhouxiaoka/autoclip",
       "descricao": "AutoClip｜一个链接，一键出片。开源 AI 视频剪辑桌面工具，将播客、访谈、课程等长视频自动剪成短视频，生成字幕、封面和发布文案，适配抖音、小红书、TikTok、Reels 与 YouTube Shorts。Open-source AI video clipping & content repurposing.",
       "linguagem": "Python",
-      "estrelas_total": 10858,
-      "forks": 1916,
-      "estrelas_hoje": 110
+      "estrelas_total": 11837,
+      "forks": 1981,
+      "estrelas_hoje": 126
     }
   ]
 }
